@@ -20,22 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: diego.riano@cena.usp.br  
+phone: +55 19 3429 4723
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Avenida Centenário 303
+  city: Piracicaba
+  region: SP
+  postcode: '13416-000'
+  country: Brazil
+  country_code: BR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '-22.707844'
+  longitude: '-47.644338'
+directions: CENA/USP Predio 5
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Every weekday 8:00 to 17:00'
 appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
