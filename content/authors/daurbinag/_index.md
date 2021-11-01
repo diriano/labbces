@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laura Natalia Gonzalez Garcia
+title: David Aljandro Urbina
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,10 +20,7 @@ education:
   - course: Master in Biological Sciences - Microbioldogy
     institution: University of Los Andes, Bogotá, Colombia
     year: 2012
-  - course: Master in Bioinformatics and Computational Biology
-    institution: University of Los Andes, Bogotá, Colombia
-    year: 2013
-  - course: BSc. Biology and BSc Microbiology
+  - course: BSc. Microbiology
     institution: Universidad Nacional de Colombia, Bogotá, Colombia
     year: 2010
 
@@ -31,10 +28,6 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=kmmuwMkAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,4 +45,4 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Laura is currently doing a PhD at teh University of Los Andes under the supervision of Prof. Dr. Jorge Duitama
+David is currently a Scientific Programmer at EBI, UK
