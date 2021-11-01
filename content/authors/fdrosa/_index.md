@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Felipe Vaz Peres
+title: Fernando Della Rosa
 
 # Is this the primary user of the site?
 superuser: false
