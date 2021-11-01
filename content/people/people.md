@@ -27,4 +27,14 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark"
 ---
