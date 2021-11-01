@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Computational, Evolutionary and Sistems Biology Laboratory - LabBCES** is a research laboratory, located at the Center for Nuclear Energy in Agriculture (CENA), University of São Paulo (USP), in the city of Piracicaba since 2018. If you are interested in joining our research group please contact us.
