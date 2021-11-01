@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Felipe Vaz Peres
+title: Nina Maria Soares Pinheiro Machado
 
 # Is this the primary user of the site?
 superuser: false
