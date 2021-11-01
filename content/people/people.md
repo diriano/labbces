@@ -27,14 +27,4 @@ design:
   show_interests: false
   show_role: true
   show_social: true
-  
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/diriano/labbces/main/static/img/BCES_2011a.jpg"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/diriano/labbces/main/static/img/BCES_2011.jpg"
-caption = "Dark"
 ---
