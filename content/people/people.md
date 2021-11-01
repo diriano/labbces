@@ -30,11 +30,11 @@ design:
   
 [[gallery_item]]
 album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+image = "https://raw.githubusercontent.com/diriano/labbces/main/static/img/BCES_2011a.jpg"
 caption = "Default"
 
 [[gallery_item]]
 album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+image = "https://raw.githubusercontent.com/diriano/labbces/main/static/img/BCES_2011.jpg"
 caption = "Dark"
 ---
