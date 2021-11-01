@@ -52,4 +52,4 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Laura is currently doing a PhD at teh University of Los Andes under the supervision of Prof. Dr. Jorge Duitama
+Laura is currently doing a PhD at the University of Los Andes under the supervision of Prof. Dr. Jorge Duitama
