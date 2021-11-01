@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Grad Students
 ---
 
 Jorge is a PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
