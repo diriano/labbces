@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Aljandro Urbina
+title: David Alejandro Urbina
 
 # Is this the primary user of the site?
 superuser: false
