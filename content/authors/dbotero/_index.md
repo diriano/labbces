@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Laura Natalia Gonzalez Garcia
+title: David Octavio Botero-Rozo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad student and then graduate (master) student
+role: Graduate (master) student - Co-supervised
 
 # Organizations/Affiliations
 organizations:
@@ -17,15 +17,9 @@ organizations:
 
 education:
   courses:
-  - course: Master in Biological Sciences - Microbioldogy
+  - course: Master in Biological Sciences - Microbiology
     institution: University of Los Andes, Bogotá, Colombia
     year: 2012
-  - course: Master in Bioinformatics and Computational Biology
-    institution: University of Los Andes, Bogotá, Colombia
-    year: 2013
-  - course: BSc. Biology and BSc Microbiology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +28,7 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=kmmuwMkAAAAJ
+  link: https://scholar.google.co.uk/citations?user=ylHi8lwAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,4 +46,4 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Laura is currently doing a PhD at teh University of Los Andes under the supervision of Prof. Dr. Jorge Duitama
+David is currently a researcher ad CENIPALMA in Colombia
