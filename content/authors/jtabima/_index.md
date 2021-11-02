@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Laura Natalia Gonzalez Garcia
+title: Javier Tabima
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad student and then graduate (master) student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -15,18 +15,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-education:
-  courses:
-  - course: Master in Biological Sciences - Microbioldogy
-    institution: University of Los Andes, Bogotá, Colombia
-    year: 2012
-  - course: Master in Bioinformatics and Computational Biology
-    institution: University of Los Andes, Bogotá, Colombia
-    year: 2013
-  - course: BSc. Biology and BSc Microbiology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2010
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -34,7 +22,7 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=kmmuwMkAAAAJ
+  link: https://scholar.google.co.uk/citations?user=t1P5G4QAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,4 +40,4 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Laura is currently doing a PhD at teh University of Los Andes under the supervision of Prof. Dr. Jorge Duitama
+Javier is currently an assitant professor in fungal phylogenetics and bioinformatics at Clark University in Worcester, MA, USA.
