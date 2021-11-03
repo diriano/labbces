@@ -1,5 +1,8 @@
 # LabBCES website
 https://labbces.netlify.app/
+
+https://app.netlify.com/sites/labbces/overview
+
 See tutorial to use github pages instead of netlify: https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 
