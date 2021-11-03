@@ -17,23 +17,19 @@ organizations:
 bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
 
 interests:
-- Evolution of biological networks in general, particularly Gene Regulatory Networks
-- Evolution of gene families
-- Molecular characterization of organisms
-- Predicting the function of non-coding RNAs
-- Genome assembly and annotation
-- Machine learning and classification problems
-- Identification and evolution of protein domains
-- Development of integrative databases for omics data
+- Data analysis 
+- Data visualization
+- Biological networks
+- Plant biotechnology
 
 education:
   courses:
-  - course: PhD (Dr. rer. nat) in Plant Molecular Biology
-    institution: Universitaet Potsdam, Germany
-    year: 2008
-  - course: BSc in Biology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2001
+  - course: MSc in Biotechology
+    institution: Universidad Nacional de Colombia, Medellín, Colombia
+    year: 2019
+  - course: Biological Engineering
+    institution: Universidad Nacional de Colombia, Medellín, Colombia
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:diego.riano@cena.usp.br'
+  link: 'mailto:jmmunozp@usp.br'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/diegoriano
+  link: https://twitter.com/jomare1188
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=6rghd24AAAAJ
+  link: https://scholar.google.com/citations?user=NWb0vdoAAAAJ&hl=es&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/diriano
+  link: https://github.com/jomare1188
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
