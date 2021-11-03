@@ -6,34 +6,28 @@ title: Beatriz Rodrigues Estevam
 superuser: false
 
 # Role/position
-role: Undergrad student - Biotechnology (UFScar)
+role: Undergrad student - Biological Sciences (ESALQ/USP)
 
 # Organizations/Affiliations
 organizations:
-- name: Federal University of São Carlos
+- name: University of São Paulo 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
+bio: I am very passionate about the ability to solve biological problems with bioinformatics.
 
 interests:
-- Evolution of biological networks in general, particularly Gene Regulatory Networks
-- Evolution of gene families
-- Molecular characterization of organisms
-- Predicting the function of non-coding RNAs
-- Genome assembly and annotation
-- Machine learning and classification problems
-- Identification and evolution of protein domains
-- Development of integrative databases for omics data
+- Bioinformatics algorithms
+- Phylogenetic analysis
+- Protein Structures 
+- Informational Biology 
+- Synthetic Biology
 
 education:
   courses:
-  - course: PhD (Dr. rer. nat) in Plant Molecular Biology
-    institution: Universitaet Potsdam, Germany
-    year: 2008
-  - course: BSc in Biology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2001
+  - course: BSc in Biological Sciences
+    institution: University of São Paulo, Piracicaba, Brazil
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +36,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:diego.riano@cena.usp.br'
+  link: 'mailto:bia.estevam.25@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/diegoriano
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=6rghd24AAAAJ
+  link: https://twitter.com/BiaREstevam
 - icon: github
   icon_pack: fab
-  link: https://github.com/diriano
+  link: https://github.com/Beatriz-Estevam
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +61,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Jorge is a PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
+Beatriz has worked studying the SARS-CoV-2 genome and is currently doing phylogenetic analysis of enzymes involved in the degradation of plant biomass.
