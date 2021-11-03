@@ -20,5 +20,4 @@ gallery_item:
   image: BCES_2011a.jpg
   caption: Write your image 2 caption here
 ---
-
-Add your *content* here...
+{{< gallery album="bces" >}} 
