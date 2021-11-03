@@ -20,6 +20,9 @@ gallery_item:
   image: BCES_2015_BBQ.jpg
   caption: LabBCES and friends BBQ in 2015.
 - album: bces
+  image: BCES_2012_Defenses.jpg
+  caption: The LabBCES in 2012 at theses defenses.
+- album: bces
   image: BCES_2012_ISMBLA.jpg
   caption: The LabBCES in 2012 at the ISCB-LA in Santiago, Chile.
 - album: bces
