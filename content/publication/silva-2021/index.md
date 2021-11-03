@@ -1,9 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Shedding Light on the Dynamic Role of the \"Target of Rapamycin\" Kinase in
-  the Fast-Growing C, javax.xml.bind.JAXBElement@12828732, Species , javax.xml.bind.JAXBElement@174d762f,
-  , a Suitable Model for Biomass Crops.
+title: Shedding light on the dynamic role of the “Target of Rapamycin” kinase in the
+  fast-growing C4 species Setaria viridis, a suitable model for biomass crops
 subtitle: ''
 summary: ''
 authors:
@@ -40,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T02:52:02.405869Z'
+publishDate: '2021-11-03T02:55:00.235154Z'
 publication_types:
 - '2'
 abstract: The Target of Rapamycin (TOR) kinase pathway integrates energy and nutrient
