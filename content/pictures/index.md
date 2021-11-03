@@ -14,10 +14,28 @@ header:
 
 gallery_item:
 - album: bces
-  image: BCES_2011.jpg
-  caption: Write your image 1 caption here
+  image: BCES_2017_QualiLucas.jpg
+  caption: PhD qualification exam of Lucas Lopes in 2017.
+- album: bces
+  image: BCES_2015_BBQ.jpg
+  caption: LabBCES and friends BBQ in 2015.
+- album: bces
+  image: BCES_2012_ISMBLA.jpg
+  caption: The LabBCES in 2012 at the ISCB-LA in Santiago, Chile.
+- album: bces
+  image: BCES_2012_ISMBLAc.jpg
+  caption: The LabBCES in 2012 at the ISCB-LA in Santiago, Chile.
+- album: bces
+  image: BCES_2012_ISMBLAb.jpg
+  caption: The LabBCES in 2012 at the ISCB-LA in Santiago, Chile.
 - album: bces
   image: BCES_2011a.jpg
-  caption: Write your image 2 caption here
+  caption: The LabBCES circa 2012 at Perlaza's.
+- album: bces
+  image: BCES_2011.jpg
+  caption: The LabBCES at Universidad de Los Andes circa 2011.
+- album: bces
+  image: BCES_2010.jpg
+  caption: The LabBCES starting at Universidad de Los Andes circa 2010
 ---
 {{< gallery album="bces" >}} 
