@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
+bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Luiz de Queiroz.
 
 interests:
 - Evolution of biological networks in general, particularly Gene Regulatory Networks
