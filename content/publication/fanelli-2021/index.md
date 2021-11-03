@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T02:48:18.232740Z'
+publishDate: '2021-11-03T02:52:01.491916Z'
 publication_types:
 - '2'
 abstract: The purification of hydroxycinnamic acids [ -coumaric acid ( CA) and ferulic
