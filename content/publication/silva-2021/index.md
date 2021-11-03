@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T02:55:00.235154Z'
+publishDate: '2021-11-03T03:16:08.860555Z'
 publication_types:
 - '2'
 abstract: The Target of Rapamycin (TOR) kinase pathway integrates energy and nutrient
