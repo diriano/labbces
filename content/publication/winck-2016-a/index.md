@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:33.127489Z'
+publishDate: '2021-11-04T01:46:20.699339Z'
 publication_types:
 - '2'
 abstract: The development of microalgae sustainable applications needs better understanding

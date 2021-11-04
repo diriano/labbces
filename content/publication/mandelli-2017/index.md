@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:24.647131Z'
+publishDate: '2021-11-04T01:46:10.297483Z'
 publication_types:
 - '2'
 abstract: Thermus filiformis is an aerobic thermophilic bacterium isolated from a

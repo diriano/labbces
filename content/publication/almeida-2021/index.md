@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:09.781139Z'
+publishDate: '2021-11-04T01:45:51.572948Z'
 publication_types:
 - '2'
 abstract: Mitochondrial genomes are highly conserved in many fungal groups, and they

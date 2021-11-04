@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:06.688304Z'
+publishDate: '2021-11-04T01:45:45.871987Z'
 publication_types:
 - '2'
 abstract: Oral squamous cell carcinoma (OSCC) has high mortality rates that are largely

@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:29.311072Z'
+publishDate: '2021-11-04T01:46:16.154122Z'
 publication_types:
 - '2'
 abstract: Invasive aspergillosis is predominantly caused by Aspergillus fumigatus,

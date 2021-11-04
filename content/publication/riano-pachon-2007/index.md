@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:17:01.388770Z'
+publishDate: '2021-11-04T01:46:54.828053Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Transcription factors (TFs) are key regulatory proteins that

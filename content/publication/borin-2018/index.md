@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:17.220893Z'
+publishDate: '2021-11-04T01:46:01.053416Z'
 publication_types:
 - '2'
 abstract: The biomass-degrading fungus Trichoderma reesei has been considered a model

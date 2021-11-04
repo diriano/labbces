@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:23.690045Z'
+publishDate: '2021-11-04T01:46:09.153208Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Second generation (2G) ethanol is produced by breaking down

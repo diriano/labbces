@@ -57,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:43.459190Z'
+publishDate: '2021-11-04T01:46:33.376584Z'
 publication_types:
 - '2'
 abstract: The control of gene expression by transcriptional regulators and other types

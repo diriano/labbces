@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-03T03:16:26.522147Z'
+publishDate: '2021-11-04T01:46:12.622943Z'
 publication_types:
 - '2'
 abstract: One of the drawbacks during second-generation biofuel production from plant
