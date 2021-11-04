@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Aureliano C. Cunha
 - Renato A. Corrêa Dos Santos
-- Diego M. Riaño-Pachon
+- Diego Mauricio Riaño-Pachon
 - Fábio M. Squina
 - Juliana V. C. Oliveira
 - Gustavo H. Goldman
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:45:54.016455Z'
+publishDate: '2021-11-04T01:47:50.433637Z'
 publication_types:
 - '2'
 abstract: Wickerhamomyces anomalus LBCM1105 is a yeast isolated from cachaça distillery

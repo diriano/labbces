@@ -10,7 +10,7 @@ authors:
 - Benjamin Weiche
 - Gerrit Timmerhaus
 - Sandra Richardt
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Luiz G. G. Corrêa
 - Ralf Reski
 - Bernd Mueller-Roeber
@@ -55,7 +55,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:43.838576Z'
+publishDate: '2021-11-04T01:47:54.786847Z'
 publication_types:
 - '2'
 abstract: Evolutionary retention of duplicated genes encoding transcription-associated

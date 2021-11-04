@@ -13,7 +13,7 @@ authors:
 - Laura Natalia González-García
 - Tiago Domingues Zucchi
 - Gustavo H. Goldman
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 tags: []
 categories: []
 date: '2015-12-01'
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:23.018022Z'
+publishDate: '2021-11-04T01:47:52.962186Z'
 publication_types:
 - '2'
 abstract: Here, we present the draft genome sequence of Komagataeibacter intermedius

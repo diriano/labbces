@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:53.717400Z'
+publishDate: '2021-11-04T01:47:55.690579Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: In plants, complex regulatory mechanisms are at the core of

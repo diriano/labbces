@@ -10,7 +10,7 @@ authors:
 - Andrés Pinzón
 - Diego Chaves
 - Silvia Restrepo
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 tags:
 - '"Arabidopsis/genetics"'
 - '"Chromosomes"'
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:36.867258Z'
+publishDate: '2021-11-04T01:47:54.168751Z'
 publication_types:
 - '2'
 abstract: The main objective of the present study was to reanalyse tomato expression

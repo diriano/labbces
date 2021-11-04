@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:45:55.177305Z'
+publishDate: '2021-11-04T01:47:50.533382Z'
 publication_types:
 - '2'
 abstract: NAC proteins are one of the largest families of plant-specific transcription

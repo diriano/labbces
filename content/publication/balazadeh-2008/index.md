@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - S. Balazadeh
-- D. M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - B. Mueller-Roeber
 tags:
 - '"Arabidopsis/*genetics/growth & development/physiology"'
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:49.456233Z'
+publishDate: '2021-11-04T01:47:55.283936Z'
 publication_types:
 - '2'
 abstract: 'Senescence is a highly regulated process, eventually leading to cell and

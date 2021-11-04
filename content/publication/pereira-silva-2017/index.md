@@ -12,7 +12,7 @@ authors:
 - Thaila Fernanda Dos Reis
 - Mario Henrique Paziani
 - Márcia Regina Von Zeska Kress
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Daisuke Hagiwara
 - Laure N. A. Ries
 - Neil Andrew Brown
@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:16.154122Z'
+publishDate: '2021-11-04T01:47:52.351483Z'
 publication_types:
 - '2'
 abstract: Invasive aspergillosis is predominantly caused by Aspergillus fumigatus,
