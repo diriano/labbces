@@ -54,4 +54,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Nina dis her TCC and Iniciation Project in the group, applying machine learninig techniques to DNA genomics data (second and third generation) to separate reads coming from different haplotypes in diploid organisms.
+Nina did her TCC and Scientific Iniciation Project in our group, applying machine learninig techniques to DNA genomics data (second and third generation) to separate reads coming from different haplotypes in diploid organisms.

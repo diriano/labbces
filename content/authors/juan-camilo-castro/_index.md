@@ -46,4 +46,4 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Laura is currently doing a PhD at Georgia Tech.
+Juan Camilo is currently doing a PhD at Georgia Tech.
