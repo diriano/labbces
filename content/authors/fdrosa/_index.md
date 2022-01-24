@@ -14,26 +14,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
+bio: Believing in a better future associated to the bioinformatics technologies
 
 interests:
-- Evolution of biological networks in general, particularly Gene Regulatory Networks
-- Evolution of gene families
-- Molecular characterization of organisms
-- Predicting the function of non-coding RNAs
-- Genome assembly and annotation
-- Machine learning and classification problems
-- Identification and evolution of protein domains
-- Development of integrative databases for omics data
+- Genome assembly;
+- Genome quality assessment;
+- Technology scaffolding;
+- Data analysis.
 
 education:
-  courses:
-  - course: PhD (Dr. rer. nat) in Plant Molecular Biology
-    institution: Universitaet Potsdam, Germany
-    year: 2008
-  - course: BSc in Biology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2001
+  courses: 
+  - course: Mechatronics technician
+    institution: ETEC. Prefeito Alberto Feres
+    year: 2017 
+  - course: BSc in Biotechnology
+    institution: Federal University of São Carlos, Araras, Brazil
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:diego.riano@cena.usp.br'
+  link: 'mailto:fernandodellarosa@yahoo.com.br'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/diegoriano
+  link: https:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=6rghd24AAAAJ
+  link: https:
 - icon: github
   icon_pack: fab
-  link: https://github.com/diriano
+  link: https://github.com/fdellarosa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,5 +65,3 @@ highlight_name: true
 user_groups:
 - Undergrad Students
 ---
-
-Jorge is a PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
