@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Bruno L. Mello
 - Anna M. Alessi
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Eduardo R. deAzevedo
 - Francisco E. G. Guimarães
 - Melissa C. Espirito Santo
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:03.326758Z'
+publishDate: '2021-11-04T01:47:51.243559Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Using globally abundant crop residues as a carbon source for

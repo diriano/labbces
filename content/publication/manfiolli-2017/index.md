@@ -12,7 +12,7 @@ authors:
 - Stephen Dolan
 - Sean Doyle
 - Gary Jones
-- Diego M. Riaño Pachón
+- Diego Mauricio Riaño Pachón
 - Mevlüt Ulaş
 - Luke M. Noble
 - Derek J. Mattern
@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:05.632195Z'
+publishDate: '2021-11-04T01:47:51.441618Z'
 publication_types:
 - '2'
 abstract: 'Metal restriction imposed by mammalian hosts during an infection is a common

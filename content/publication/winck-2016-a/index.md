@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Flavia V. Winck
 - David O. Páez Melo
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Marina C. M. Martins
 - Camila Caldana
 - Andrés F. González Barrios
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:20.699339Z'
+publishDate: '2021-11-04T01:47:52.754948Z'
 publication_types:
 - '2'
 abstract: The development of microalgae sustainable applications needs better understanding

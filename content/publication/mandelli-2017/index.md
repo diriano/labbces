@@ -17,7 +17,7 @@ authors:
 - C. Caldana
 - A. F. Paes Leme
 - A. Z. Mercadante
-- D. M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Fabio Marcio Squina
 tags:
 - '"*Adaptation"'
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:10.297483Z'
+publishDate: '2021-11-04T01:47:51.840116Z'
 publication_types:
 - '2'
 abstract: Thermus filiformis is an aerobic thermophilic bacterium isolated from a

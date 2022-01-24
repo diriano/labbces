@@ -12,7 +12,7 @@ authors:
 - Antonio A. Kaupert Neto
 - Tiago F. C. Resende
 - Juliana V. C. Oliveira
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Marcelo Zaiat
 - José G. C. Pradella
 - Isabel Rocha
@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:45:57.560847Z'
+publishDate: '2021-11-04T01:47:50.736195Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Pythium irregulare is an oleaginous Oomycete able to accumulate

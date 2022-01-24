@@ -175,7 +175,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:14.948937Z'
+publishDate: '2021-11-04T01:47:52.231708Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: The fungal genus Aspergillus is of critical importance to humankind.

@@ -14,7 +14,7 @@ authors:
 - Steven D. Harris
 - Vera Meyer
 - Renato A. Corrêa Dos Santos
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Laure Nicolas Annick Ries
 - Gustavo H. Goldman
 tags:
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:46:12.622943Z'
+publishDate: '2021-11-04T01:47:52.033841Z'
 publication_types:
 - '2'
 abstract: One of the drawbacks during second-generation biofuel production from plant
