@@ -1,39 +1,34 @@
 ---
 # Display name
-title: Daniel Brito Rocha
+title: Danilo Brito Rocha
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad student - Biotechnology (UFScar)
+role: Undergrad student - Biotechnology (USP)
 
 # Organizations/Affiliations
 organizations:
-- name: Federal University of São Carlos
+- name: Universidade de Sao Paulo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
+bio: I am a computaional bioinformatician at the University of São Paulo(USP).
 
 interests:
-- Evolution of biological networks in general, particularly Gene Regulatory Networks
-- Evolution of gene families
-- Molecular characterization of organisms
-- Predicting the function of non-coding RNAs
 - Genome assembly and annotation
-- Machine learning and classification problems
-- Identification and evolution of protein domains
-- Development of integrative databases for omics data
+- Evolution of genes families
+- Genetics in general
+- CAZymes
+- Machine learning
+
 
 education:
   courses:
-  - course: PhD (Dr. rer. nat) in Plant Molecular Biology
-    institution: Universitaet Potsdam, Germany
-    year: 2008
-  - course: BSc in Biology
-    institution: Universidad Nacional de Colombia, Bogotá, Colombia
-    year: 2001
+  - course: BSc in Biotechnology
+    institution: Universidade de Sao Paulo, Sao Paulo, Sao Paulo.
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +37,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:diego.riano@cena.usp.br'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/diegoriano
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=6rghd24AAAAJ
+  link: 'mailto:danilobrittorocha@gmail.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/diriano
+  link: https:https://github.com/dan-brito
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,5 +58,3 @@ highlight_name: true
 user_groups:
 - Undergrad Students
 ---
-
-Jorge is a PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
