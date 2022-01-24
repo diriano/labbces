@@ -6,6 +6,11 @@ People info are under content/authors, for each person there is a folder in that
 -Adding publications
 Add publication into the bib file (using JabRef): biblioDMRP.bib
 And then run:
+
 academic import --bibtex biblioDMRP.bib
+
+If previous publication had been updated tne overwrite the import with the flag --overwrite
+
+academic import --overwrite --bibtex biblioDMRP.bib
 
 -Adding news
