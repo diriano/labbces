@@ -14,3 +14,9 @@ If previous publication had been updated tne overwrite the import with the flag 
 academic import --overwrite --bibtex biblioDMRP.bib
 
 -Adding news
+
+in the root folder of the site run:
+
+hugo new --kind post post/25-11-2021-BSB2021
+
+then edit the index.md file
