@@ -1,0 +1,11 @@
+-Adding new people
+
+-Edditing people
+People info are under content/authors, for each person there is a folder in that path. Edit the _index.md file and the avatar.jpg|png to have a pic.
+
+-Adding publications
+Add publication into the bib file (using JabRef): biblioDMRP.bib
+And then run:
+academic import --bibtex biblioDMRP.bib
+
+-Adding news
