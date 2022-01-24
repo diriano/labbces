@@ -39,12 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:fernandodellarosa@yahoo.com.br'
-- icon: twitter
-  icon_pack: fab
-  link: https:
-- icon: google-scholar
-  icon_pack: ai
-  link: https:
 - icon: github
   icon_pack: fab
   link: https://github.com/fdellarosa
