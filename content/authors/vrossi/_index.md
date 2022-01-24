@@ -47,4 +47,4 @@ user_groups:
 - Grad Students
 ---
 
-Veruscar is a Master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
+Verusca is a Master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
