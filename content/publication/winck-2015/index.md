@@ -20,7 +20,6 @@ authors:
 tags:
 - '"Adult"'
 - '"Aged"'
-- '"Aged"'
 - '"80 and over"'
 - '"Biomarkers"'
 - '"Tumor/immunology/metabolism"'
@@ -57,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:53.056496Z'
+publishDate: '2022-01-24T20:52:57.297672Z'
 publication_types:
 - '2'
 abstract: The development and progression of oral cavity squamous cell carcinoma (OSCC)

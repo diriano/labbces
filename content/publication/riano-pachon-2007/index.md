@@ -16,7 +16,6 @@ tags:
 - '"Plant"'
 - '"Gene Regulatory Networks"'
 - '"Genome"'
-- '"Plant"'
 - '"Plants/*genetics"'
 - '"Promoter Regions"'
 - '"Genetic"'
@@ -43,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:55.797073Z'
+publishDate: '2022-01-24T20:53:24.563374Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Transcription factors (TFs) are key regulatory proteins that

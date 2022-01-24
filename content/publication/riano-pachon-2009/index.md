@@ -21,7 +21,6 @@ tags:
 - '"*Genes"'
 - '"Plant"'
 - '"*Genome"'
-- '"Plant"'
 - '"Metabolomics"'
 - '"Plant Proteins/chemistry/*genetics/metabolism"'
 - '"Plants/metabolism"'
@@ -48,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:55.180499Z'
+publishDate: '2022-01-24T20:53:18.600126Z'
 publication_types:
 - '2'
 abstract: The GABI Primary Database, GabiPD (http://www.gabipd.org/), was established

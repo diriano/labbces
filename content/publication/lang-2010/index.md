@@ -22,7 +22,6 @@ tags:
 - '"Gene Expression Regulation"'
 - '"Plant"'
 - '"Genome"'
-- '"Plant"'
 - '"Genome-Wide Association Study"'
 - '"Markov Chains"'
 - '"MicroRNAs/genetics"'
@@ -55,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:54.786847Z'
+publishDate: '2022-01-24T20:53:14.509519Z'
 publication_types:
 - '2'
 abstract: Evolutionary retention of duplicated genes encoding transcription-associated

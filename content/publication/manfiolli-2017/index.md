@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:51.441618Z'
+publishDate: '2022-01-24T20:52:41.318767Z'
 publication_types:
 - '2'
 abstract: 'Metal restriction imposed by mammalian hosts during an infection is a common

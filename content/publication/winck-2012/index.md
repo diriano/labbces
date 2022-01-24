@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:54.474746Z'
+publishDate: '2022-01-24T20:53:11.466885Z'
 publication_types:
 - '2'
 abstract: Nuclear proteins play a central role in regulating gene expression. Their

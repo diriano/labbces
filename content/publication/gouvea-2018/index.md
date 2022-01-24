@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:51.140773Z'
+publishDate: '2022-01-24T20:52:38.186591Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Sugarcane bagasse has been proposed as a lignocellulosic residue

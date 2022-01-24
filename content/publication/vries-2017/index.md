@@ -138,7 +138,6 @@ tags:
 - '"Fungal"'
 - '"Gene Regulatory Networks"'
 - '"*Genome"'
-- '"Fungal"'
 - '"*Genomics/methods"'
 - '"Humans"'
 - '"Metabolic Networks and Pathways"'
@@ -175,7 +174,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:52.231708Z'
+publishDate: '2022-01-24T20:52:49.337165Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: The fungal genus Aspergillus is of critical importance to humankind.

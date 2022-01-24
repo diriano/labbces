@@ -11,7 +11,7 @@ authors:
 - Ibonne García
 - Fabio Aristizabal
 - Daniel Croll
-- Diego M. Riaño-Pachon
+- Diego Mauricio Riaño-Pachon
 tags: []
 categories: []
 date: '2022-01-01'
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:47:46.809418Z'
+publishDate: '2022-01-24T20:53:26.511010Z'
 publication_types:
 - '2'
 abstract: Pseudocercospora ulei is the causal agent of South American Leaf Blight

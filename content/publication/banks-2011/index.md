@@ -119,9 +119,7 @@ tags:
 - '"Gene Expression Regulation"'
 - '"Plant"'
 - '"Genes"'
-- '"Plant"'
 - '"*Genome"'
-- '"Plant"'
 - '"Magnoliopsida/chemistry/genetics"'
 - '"MicroRNAs/genetics"'
 - '"Molecular Sequence Data"'
@@ -156,7 +154,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:54.671650Z'
+publishDate: '2022-01-24T20:53:13.445646Z'
 publication_types:
 - '2'
 abstract: 'Vascular plants appeared ~410 million years ago, then diverged into several

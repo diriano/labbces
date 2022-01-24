@@ -22,9 +22,7 @@ tags:
 - '"Plant"'
 - '"Gene Regulatory Networks"'
 - '"*Genes"'
-- '"Plant"'
 - '"Genome"'
-- '"Plant"'
 - '"Information Storage and Retrieval/methods"'
 - '"Internet"'
 - '"Plant Diseases/genetics"'
@@ -54,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:54.985016Z'
+publishDate: '2022-01-24T20:53:16.564500Z'
 publication_types:
 - '2'
 abstract: The Plant Transcription Factor Database (PlnTFDB; http://plntfdb.bio.uni-potsdam.de/v3.0/)

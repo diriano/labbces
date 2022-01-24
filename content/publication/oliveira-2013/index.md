@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:53.974349Z'
+publishDate: '2022-01-24T20:53:06.422449Z'
 publication_types:
 - '2'
 abstract: Here, we present the nuclear and mitochondrial genome sequences of Pseudozyma

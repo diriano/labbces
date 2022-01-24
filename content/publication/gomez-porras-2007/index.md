@@ -24,7 +24,6 @@ tags:
 - '"Genes"'
 - '"Plant"'
 - '"*Genome"'
-- '"Plant"'
 - '"Molecular Sequence Data"'
 - '"Oryza/*genetics"'
 - '"Response Elements/*drug effects"'
@@ -48,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:55.690579Z'
+publishDate: '2022-01-24T20:53:23.559345Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: In plants, complex regulatory mechanisms are at the core of

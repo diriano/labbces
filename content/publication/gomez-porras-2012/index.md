@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:54.373120Z'
+publishDate: '2022-01-24T20:53:10.431490Z'
 publication_types:
 - '2'
 abstract: As heritage from early evolution, potassium (K(+)) is absolutely necessary

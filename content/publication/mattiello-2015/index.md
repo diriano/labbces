@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:52.856505Z'
+publishDate: '2022-01-24T20:52:55.325849Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Sugarcane is one of the major crops worldwide. It is cultivated

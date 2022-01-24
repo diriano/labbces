@@ -29,9 +29,7 @@ tags:
 - '"Proteomics"'
 - '"Thermus/*physiology"'
 - '"Transcriptome"'
-- '"Metabolomics"'
 - '"Peroxyl radical scavenging activity"'
-- '"Proteomics"'
 - '"Thermozeaxanthins"'
 - '"Transcriptomics"'
 categories: []
@@ -54,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:51.840116Z'
+publishDate: '2022-01-24T20:52:45.285624Z'
 publication_types:
 - '2'
 abstract: Thermus filiformis is an aerobic thermophilic bacterium isolated from a

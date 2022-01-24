@@ -26,7 +26,6 @@ tags:
 - '"*Transcription"'
 - '"Genetic"'
 - '"Lignan"'
-- '"Phylogeny"'
 - '"Protein homology modeling"'
 - '"Saccharum spp."'
 - '"Transcriptome- and genome-wide survey"'
@@ -50,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:51.636394Z'
+publishDate: '2022-01-24T20:52:43.285041Z'
 publication_types:
 - '2'
 abstract: Dirigent (DIR) proteins, encoded by DIR genes, are referred to as \"dirigent\"

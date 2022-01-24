@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:50.736195Z'
+publishDate: '2022-01-24T20:52:34.220966Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Pythium irregulare is an oleaginous Oomycete able to accumulate

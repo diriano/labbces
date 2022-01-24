@@ -18,7 +18,6 @@ tags:
 - '"Brazil"'
 - '"DNA"'
 - '"Fungal/genetics"'
-- '"DNA"'
 - '"Ribosomal Spacer/genetics"'
 - '"Endo-1"'
 - '"4-beta Xylanases/metabolism"'
@@ -30,7 +29,6 @@ tags:
 - '"Plant Roots"'
 - '"*Saccharum"'
 - '"Sequence Analysis"'
-- '"DNA"'
 - '"Ustilaginales/*classification/genetics/isolation & purification"'
 categories: []
 date: '2014-06-01'
@@ -52,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:53.774686Z'
+publishDate: '2022-01-24T20:53:04.356170Z'
 publication_types:
 - '2'
 abstract: A novel ustilaginomycetous yeast isolated from the intestinal tract of an

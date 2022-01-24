@@ -20,7 +20,6 @@ tags:
 - '"Gene Expression Regulation"'
 - '"Plant/genetics"'
 - '"Genes"'
-- '"Plant/genetics"'
 - '"Lamiaceae/*genetics"'
 - '"Plant Proteins/genetics"'
 - '"Populus/genetics"'
@@ -51,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-04T01:47:50.533382Z'
+publishDate: '2022-01-24T20:52:32.178916Z'
 publication_types:
 - '2'
 abstract: NAC proteins are one of the largest families of plant-specific transcription
