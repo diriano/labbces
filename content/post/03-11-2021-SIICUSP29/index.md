@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "iThree members of LabBCES at SIICUSP 29th - 2021"
+title: "Three members of LabBCES at SIICUSP 29th - 2021"
 subtitle: ""
 summary: ""
 authors: []
@@ -30,7 +30,7 @@ projects: []
 
 # SIICUSP 29th
 
-Every year we have the International Symposion of Scientific Iniciation at USP, where undergrads involved in research project can show theur results. In this year edition we had three members of the group participating: Nina, Beatriz and Danilo.
+Every year we have the International Symposion of Scientific Iniciation at USP, where undergrads involved in research project can show their results. In this year edition we had three members of the group participating: Nina, Beatriz and Danilo.
 
 ## Sequence Logos of SARS-CoV-2 polyprotein1ab protease cleavage sites
 
