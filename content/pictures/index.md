@@ -14,6 +14,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2021_BBQ.jpg
+  caption: BBQ with part of the group in Piracicaba, Dec 2021.
+  resize_options: 600x
+- album: bces
   image: BCES_2020_online.png
   caption: Online group meeting during the Covid19 pandemic in 2020.
   resize_options: 600x
