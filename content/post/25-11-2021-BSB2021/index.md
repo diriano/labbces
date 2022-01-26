@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "25 11 2021 BSB2021"
+title: "Felipe participated in the BSB2021"
 subtitle: ""
 summary: ""
 authors: []
