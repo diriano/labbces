@@ -6,7 +6,7 @@ title: Renato Augusto Correa dos Santos
 superuser: false
 
 # Role/position
-role: Graduate (master) student - Co-supervised
+role: Postdoct Gene regulatory networks in grasses
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
 Renato is doing a PhD at UniCamp.
