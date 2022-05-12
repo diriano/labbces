@@ -20,6 +20,9 @@ education:
   - course: Master in Genetics and Molecular Biology
     institution: State University of Campinas, Campinas, Brazil
     year: 2018
+  - course: PhD in Genetics and Molecular Biology
+    institution: State University of Campinas, Campinas, Brazil
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
