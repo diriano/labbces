@@ -46,4 +46,4 @@ highlight_name: true
 user_groups:
 - Researchers
 ---
-Renato is doing a PhD at UniCamp.
+Renato will be studying gene regulatory networks in grasses involved in secondary cell wall biosynthesis.
