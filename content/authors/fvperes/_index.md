@@ -6,7 +6,7 @@ title: Felipe Vaz Peres
 superuser: false
 
 # Role/position
-role: Undergrad student - Biotechnology (UFScar)
+role: Master student - PPG - Ciencias CENA/USP
 
 # Organizations/Affiliations
 organizations:
@@ -60,5 +60,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Grad Students
 ---
