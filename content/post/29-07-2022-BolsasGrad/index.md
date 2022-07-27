@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "29 07 2022 BolsasGrad"
+title: "Bolsas disponiveis para alunos de graduação - segundo semestre 2022"
 subtitle: ""
 summary: ""
 authors: []
