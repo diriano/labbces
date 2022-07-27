@@ -51,7 +51,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Alumni
 ---
 
 Nina did her TCC and Scientific Iniciation Project in our group, applying machine learninig techniques to DNA genomics data (second and third generation) to separate reads coming from different haplotypes in diploid organisms.
