@@ -52,3 +52,5 @@ highlight_name: true
 user_groups:
 - Undergrad Students
 ---
+
+Arthur is being supervised by our Postdoc Dr. Renato A. C. dos Santos.
