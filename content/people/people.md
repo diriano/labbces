@@ -23,6 +23,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Technician
 design:
   show_interests: false
   show_role: true
