@@ -20,3 +20,8 @@ in the root folder of the site run:
 hugo new --kind post post/25-11-2021-BSB2021
 
 then edit the index.md file
+
+-Adding projects
+
+hugo new  --kind project project/my-project-name
+#https://wowchemy.com/docs/content/projects/
