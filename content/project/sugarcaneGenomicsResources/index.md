@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SugarcaneGenomicsResources"
+title: "Sugarcane Genomics and Transcriptomics Resources"
 summary: ""
 authors: []
 tags: []
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-#Sugarcane genomics and transcriptomics resources
+# Sugarcane genomics and transcriptomics resources
