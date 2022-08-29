@@ -42,3 +42,7 @@ slides: ""
 # Sugarcane genomics and transcriptomics resources
 
 # Sugarcane Pan-transcriptome: 48 genotype-specific transcriptomes
+* [Transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039)
+* [Quality of transcriptome assemblies](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Evaluation_metrics/18623321)
+* [CDS (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_CDS_-_Fasta_files/19426715)
+* [PEP (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_PEP_-_Fasta_files/19426721)
