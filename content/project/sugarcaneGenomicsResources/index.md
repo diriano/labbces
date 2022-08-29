@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Data availability: Sugarcane genomics and transcriptomics resources
+# Data availability
 
 [48 genotype-specific transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039): Genotype-specific transcriptome assemblies exploiting public data.
 
