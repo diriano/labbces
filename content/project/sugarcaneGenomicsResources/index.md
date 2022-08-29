@@ -41,7 +41,7 @@ slides: ""
 ---
 # Data availability: Sugarcane genomics and transcriptomics resources
 
-[48 genotype-specific transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039): Gnotype-specific transcriptome assemblies exploiting public data.
+[48 genotype-specific transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039): Genotype-specific transcriptome assemblies exploiting public data.
 
 [Quality of transcriptome assemblies](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Evaluation_metrics/18623321): Genotype-specific transcriptome evaluation generated with BUSCO, Transrate and Salmon.
 
