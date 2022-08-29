@@ -43,10 +43,10 @@ slides: ""
 
 [48 genotype-specific transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039): Genotype-specific transcriptome assemblies exploiting public data.
 
-[Quality of transcriptome assemblies](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Evaluation_metrics/18623321): Genotype-specific transcriptome evaluation generated with BUSCO, Transrate and Salmon.
+[Quality of our 48 transcriptome assemblies](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Evaluation_metrics/18623321): Genotype-specific transcriptome evaluation generated with BUSCO, Transrate and Salmon.
 
-[CDS (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_CDS_-_Fasta_files/19426715): CDS from 48 genotype-specific transcriptome assemblies
+[48 genotype-specific CDS files (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_CDS_-_Fasta_files/19426715): CDS from 48 genotype-specific transcriptome assemblies
 
-[PEP (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_PEP_-_Fasta_files/19426721): PEP from 48 genotype-specific transcriptome assemblies (Over than 5.2e6 protein-coding transcripts)
+[48 genotype-specific PEP files (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_PEP_-_Fasta_files/19426721): PEP from 48 genotype-specific transcriptome assemblies (Over than 5.2e6 protein-coding transcripts)
 
 [Local BLAST server with available transcriptomes](http://200.144.245.42:4567): Temporarily available BLAST server to query our transcriptome assemblies. 
