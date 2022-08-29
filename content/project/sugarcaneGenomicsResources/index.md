@@ -47,6 +47,6 @@ slides: ""
 
 [CDS (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_CDS_-_Fasta_files/19426715): CDS files from our 48 genotype-specific transcriptome assemblies.
 
-[48 genotype-specific PEP files (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_PEP_-_Fasta_files/19426721): PEP files from our 48 genotype-specific transcriptome assemblies (Over than 5.2e6 protein-coding transcripts)
+[PEP (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_PEP_-_Fasta_files/19426721): PEP files from our 48 genotype-specific transcriptome assemblies (Over than 5.2e6 protein-coding transcripts)
 
 [Local BLAST server (temp)](http://200.144.245.42:4567): Temporarily available BLAST server to query our transcriptome assemblies. 
