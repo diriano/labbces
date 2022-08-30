@@ -13,6 +13,9 @@ main:
     #  - name: Events
     #url: event
     #weight: 40
+  - name: Projects
+    url: project
+    weith: 40
   - name: Pictures
     url: pictures
     weight: 40
