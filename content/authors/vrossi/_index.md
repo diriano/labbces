@@ -23,6 +23,10 @@ interests:
 education:
   courses:
   - course: BSc in Biology
+  - course: Mestre em Ciências. Programa: Ciências (Energia Nuclear na Agricultura) - Biologia na Agricultura e no Ambiente
+    institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
+    year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +48,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Verusca is a Master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
+Verusca finished in August 2022 her master in the PPGs - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, studying in silico the expression profiles of transcriptiona factor and CAZymes genes in sugarcane cultivar SP80-3280
