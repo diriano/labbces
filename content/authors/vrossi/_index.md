@@ -23,7 +23,7 @@ interests:
 education:
   courses:
   - course: BSc in Biology
-  - course: Mestre em Ciências. Programa: Ciências (Energia Nuclear na Agricultura) - Biologia na Agricultura e no Ambiente
+  - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agricultura and environment
     institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
     year: 2022
 
