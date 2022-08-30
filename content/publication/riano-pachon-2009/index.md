@@ -15,18 +15,18 @@ authors:
 - Svenja Diehl
 - Birgit Kersten
 tags:
-- '"*Databases"'
-- '"Genetic"'
-- '"Gene Expression Profiling"'
-- '"*Genes"'
-- '"Plant"'
-- '"*Genome"'
-- '"Metabolomics"'
-- '"Plant Proteins/chemistry/*genetics/metabolism"'
-- '"Plants/metabolism"'
-- '"Proteomics"'
-- '"Software"'
-- '"Systems Integration"'
+- '*Databases'
+- Genetic
+- Gene Expression Profiling
+- '*Genes'
+- Plant
+- '*Genome'
+- Metabolomics
+- Plant Proteins/chemistry/*genetics/metabolism
+- Plants/metabolism
+- Proteomics
+- Software
+- Systems Integration
 categories: []
 date: '2009-01-01'
 lastmod: 2021-11-03T00:16:56-03:00
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:18.600126Z'
+publishDate: '2022-08-30T13:17:14.429533Z'
 publication_types:
 - '2'
 abstract: The GABI Primary Database, GabiPD (http://www.gabipd.org/), was established

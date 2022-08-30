@@ -9,14 +9,14 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Telma T. Franco
 tags:
-- '"bioenergy"'
-- '"biofuels"'
-- '"biomass"'
-- '"biotechnology"'
-- '"carbon dioxide"'
-- '"hydrogen"'
-- '"lipids"'
-- '"nutrients"'
+- bioenergy
+- biofuels
+- biomass
+- biotechnology
+- carbon dioxide
+- hydrogen
+- lipids
+- nutrients
 categories: []
 date: '2016-01-01'
 lastmod: 2021-11-03T00:16:31-03:00
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:51.370598Z'
+publishDate: '2022-08-30T13:17:11.214851Z'
 publication_types:
 - '1'
 abstract: ''

@@ -15,11 +15,11 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Gustavo H. Goldman
 tags:
-- '"Biofilm"'
-- '"Fungi"'
-- '"Hydrolytic enzymes"'
-- '"Hydrophobin"'
-- '"Sugarcane bagasse"'
+- Biofilm
+- Fungi
+- Hydrolytic enzymes
+- Hydrophobin
+- Sugarcane bagasse
 categories: []
 date: '2016-01-01'
 lastmod: 2021-11-03T00:16:33-03:00
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:53.307048Z'
+publishDate: '2022-08-30T13:17:11.452904Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Sugarcane is one of the world's most profitable crops. Waste\

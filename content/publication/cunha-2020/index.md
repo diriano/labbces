@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:31.211449Z'
+publishDate: '2022-08-30T13:17:08.801480Z'
 publication_types:
 - '2'
 abstract: Wickerhamomyces anomalus LBCM1105 is a yeast isolated from cachaça distillery

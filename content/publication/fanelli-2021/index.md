@@ -18,8 +18,8 @@ authors:
 - Ronald D. Hatfield
 - Elisson Romanel
 tags:
-- '"BAHD acyltransferases; biomass engineering; biorefineries; ferulic acid (FA);
-  p-coumaric acid (pCA)"'
+- BAHD acyltransferases; biomass engineering; biorefineries; ferulic acid (FA); p-coumaric
+  acid (pCA)
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-02T23:46:52-03:00
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:27.127132Z'
+publishDate: '2022-08-30T13:17:08.330569Z'
 publication_types:
 - '2'
 abstract: The purification of hydroxycinnamic acids [ -coumaric acid ( CA) and ferulic

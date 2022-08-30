@@ -16,19 +16,19 @@ authors:
 - Carlos Alberto Labate
 - Maria Carolina Quecine
 tags:
-- '"Basidiomycota"'
-- '"genetics; DNA"'
-- '"Mitochondrial"'
-- '"genetics; Genes"'
-- '"Fungal"'
-- '"genetics; Genome"'
-- '"genetics; Interspersed Repetitive Sequences"'
-- '"genetics; Introns"'
-- '"genetics; Phylogeny; Proteomics; RNA"'
-- '"Ribosomal"'
-- '"18S"'
-- '"genetics; Real-Time Polymerase Chain Reaction; Sequence Analysis"'
-- '"DNA"'
+- Basidiomycota
+- genetics; DNA
+- Mitochondrial
+- genetics; Genes
+- Fungal
+- genetics; Genome
+- genetics; Interspersed Repetitive Sequences
+- genetics; Introns
+- genetics; Phylogeny; Proteomics; RNA
+- Ribosomal
+- 18S
+- genetics; Real-Time Polymerase Chain Reaction; Sequence Analysis
+- DNA
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-02T23:52:04-03:00
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:29.170381Z'
+publishDate: '2022-08-30T13:17:08.565042Z'
 publication_types:
 - '2'
 abstract: Mitochondrial genomes are highly conserved in many fungal groups, and they

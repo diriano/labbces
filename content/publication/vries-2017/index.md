@@ -124,36 +124,36 @@ authors:
 - Paul S. Dyer
 - Igor V. Grigoriev
 tags:
-- '"*Adaptation"'
-- '"Biological"'
-- '"Aspergillus/*classification/*genetics/metabolism"'
-- '"*Biodiversity"'
-- '"Biomass"'
-- '"Carbon/metabolism"'
-- '"Computational Biology/methods"'
-- '"Cytochrome P-450 Enzyme System/genetics/metabolism"'
-- '"DNA Methylation"'
-- '"Fungal Proteins/genetics"'
-- '"Gene Expression Regulation"'
-- '"Fungal"'
-- '"Gene Regulatory Networks"'
-- '"*Genome"'
-- '"*Genomics/methods"'
-- '"Humans"'
-- '"Metabolic Networks and Pathways"'
-- '"Molecular Sequence Annotation"'
-- '"Multigene Family"'
-- '"Oxidoreductases/metabolism"'
-- '"Phylogeny"'
-- '"Plants/metabolism/microbiology"'
-- '"Secondary Metabolism/genetics"'
-- '"Signal Transduction"'
-- '"Stress"'
-- '"Physiological/genetics"'
-- '"*Aspergillus"'
-- '"*Comparative genomics"'
-- '"*Fungal biology"'
-- '"*Genome sequencing"'
+- '*Adaptation'
+- Biological
+- Aspergillus/*classification/*genetics/metabolism
+- '*Biodiversity'
+- Biomass
+- Carbon/metabolism
+- Computational Biology/methods
+- Cytochrome P-450 Enzyme System/genetics/metabolism
+- DNA Methylation
+- Fungal Proteins/genetics
+- Gene Expression Regulation
+- Fungal
+- Gene Regulatory Networks
+- '*Genome'
+- '*Genomics/methods'
+- Humans
+- Metabolic Networks and Pathways
+- Molecular Sequence Annotation
+- Multigene Family
+- Oxidoreductases/metabolism
+- Phylogeny
+- Plants/metabolism/microbiology
+- Secondary Metabolism/genetics
+- Signal Transduction
+- Stress
+- Physiological/genetics
+- '*Aspergillus'
+- '*Comparative genomics'
+- '*Fungal biology'
+- '*Genome sequencing'
 categories: []
 date: '2017-02-01'
 lastmod: 2021-11-03T00:16:29-03:00
@@ -174,7 +174,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:49.337165Z'
+publishDate: '2022-08-30T13:17:10.952848Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: The fungal genus Aspergillus is of critical importance to humankind.

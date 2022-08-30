@@ -10,16 +10,16 @@ authors:
 - Raúl Trejos-Espinosa
 - Bernd Mueller-Roeber
 tags:
-- '"Animals"'
-- '"Chlamydomonas reinhardtii/*genetics"'
-- '"Computational Biology"'
-- '"Genes"'
-- '"Protozoan/*genetics"'
-- '"Genomics"'
-- '"Magnoliopsida/*genetics"'
-- '"*Phylogeny"'
-- '"Species Specificity"'
-- '"Transcription Factors/*genetics"'
+- Animals
+- Chlamydomonas reinhardtii/*genetics
+- Computational Biology
+- Genes
+- Protozoan/*genetics
+- Genomics
+- Magnoliopsida/*genetics
+- '*Phylogeny'
+- Species Specificity
+- Transcription Factors/*genetics
 categories: []
 date: '2008-05-01'
 lastmod: 2021-11-03T00:16:59-03:00
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:21.620528Z'
+publishDate: '2022-08-30T13:17:14.785777Z'
 publication_types:
 - '2'
 abstract: Transcription factors (TFs) control gene expression by interacting with

@@ -17,19 +17,19 @@ authors:
 - Waltraud X. Schulze
 - Birgit Kersten
 tags:
-- '"Amino Acid Sequence"'
-- '"Arabidopsis/cytology/*genetics/*metabolism"'
-- '"Binding Sites"'
-- '"Cell Nucleus/*genetics"'
-- '"DNA"'
-- '"Plant/*genetics"'
-- '"Humans"'
-- '"Molecular Sequence Data"'
-- '"Phosphorylation"'
-- '"Plant Proteins/chemistry/genetics/metabolism"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Proteome/chemistry/genetics/*metabolism"'
+- Amino Acid Sequence
+- Arabidopsis/cytology/*genetics/*metabolism
+- Binding Sites
+- Cell Nucleus/*genetics
+- DNA
+- Plant/*genetics
+- Humans
+- Molecular Sequence Data
+- Phosphorylation
+- Plant Proteins/chemistry/genetics/metabolism
+- '*Polymorphism'
+- Single Nucleotide
+- Proteome/chemistry/genetics/*metabolism
 categories: []
 date: '2010-07-01'
 lastmod: 2021-11-03T00:16:53-03:00
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:15.505156Z'
+publishDate: '2022-08-30T13:17:14.071456Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Protein phosphorylation is an important post-translational

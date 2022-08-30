@@ -30,9 +30,9 @@ authors:
 - Thayana Vieira Tavares
 - Renato Augusto Corrêa Dos Santos
 tags:
-- '"Brazil; COVID-19; Computational Biology"'
-- '"education; Curriculum; Education"'
-- '"Distance; Humans; Pandemics; Physical Distancing; Programming Languages"'
+- Brazil; COVID-19; Computational Biology
+- education; Curriculum; Education
+- Distance; Humans; Pandemics; Physical Distancing; Programming Languages
 categories: []
 date: '2021-11-01'
 lastmod: 2022-01-24T18:47:49-02:00
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:27.455226Z'
+publishDate: '2022-08-30T13:17:15.501393Z'
 publication_types:
 - '2'
 abstract: Computational biology has gained traction as an independent scientific discipline

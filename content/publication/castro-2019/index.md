@@ -17,19 +17,19 @@ authors:
 - Silvia Restrepo
 - Diego Mauricio Riaño-Pachón
 tags:
-- '"*Algorithms"'
-- '"*Databases"'
-- '"Genetic"'
-- '"Entropy"'
-- '"Gene Regulatory Networks/*genetics"'
-- '"*Models"'
-- '"Theoretical"'
-- '"Phytophthora infestans/*genetics"'
-- '"*Biological networks"'
-- '"*Entropy"'
-- '"*Gene regulation"'
-- '"*Information theory"'
-- '"*Transcription factors"'
+- '*Algorithms'
+- '*Databases'
+- Genetic
+- Entropy
+- Gene Regulatory Networks/*genetics
+- '*Models'
+- Theoretical
+- Phytophthora infestans/*genetics
+- '*Biological networks'
+- '*Entropy'
+- '*Gene regulation'
+- '*Information theory'
+- '*Transcription factors'
 categories: []
 date: '2019-04-01'
 lastmod: 2021-11-03T00:16:16-03:00
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:35.201553Z'
+publishDate: '2022-08-30T13:17:09.278836Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: The increasing amounts of genomics data have helped in the\

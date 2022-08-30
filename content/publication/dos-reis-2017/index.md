@@ -18,26 +18,26 @@ authors:
 - Laure Nicolas Annick Ries
 - Gustavo H. Goldman
 tags:
-- '"Aspergillus nidulans/drug effects/genetics/*metabolism"'
-- '"*Carbohydrate Metabolism/genetics"'
-- '"Computational Biology/methods"'
-- '"Cyclic AMP/metabolism"'
-- '"Cyclic AMP-Dependent Protein Kinases/metabolism"'
-- '"Gene Deletion"'
-- '"Gene Expression Profiling"'
-- '"Gene Expression Regulation"'
-- '"Fungal/drug effects"'
-- '"Gene Ontology"'
-- '"Glucose/*metabolism/pharmacology"'
-- '"Glucose Transport Proteins"'
-- '"Facilitative/genetics/*metabolism"'
-- '"Phenotype"'
-- '"Protein Binding"'
-- '"Protein Transport"'
-- '"*Signal Transduction/drug effects"'
-- '"Transcription"'
-- '"Genetic"'
-- '"ras Proteins/metabolism"'
+- Aspergillus nidulans/drug effects/genetics/*metabolism
+- '*Carbohydrate Metabolism/genetics'
+- Computational Biology/methods
+- Cyclic AMP/metabolism
+- Cyclic AMP-Dependent Protein Kinases/metabolism
+- Gene Deletion
+- Gene Expression Profiling
+- Gene Expression Regulation
+- Fungal/drug effects
+- Gene Ontology
+- Glucose/*metabolism/pharmacology
+- Glucose Transport Proteins
+- Facilitative/genetics/*metabolism
+- Phenotype
+- Protein Binding
+- Protein Transport
+- '*Signal Transduction/drug effects'
+- Transcription
+- Genetic
+- ras Proteins/metabolism
 categories: []
 date: '2017-03-01'
 lastmod: 2021-11-03T00:16:27-03:00
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:47.280575Z'
+publishDate: '2022-08-30T13:17:10.713222Z'
 publication_types:
 - '2'
 abstract: One of the drawbacks during second-generation biofuel production from plant

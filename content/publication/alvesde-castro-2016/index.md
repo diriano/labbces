@@ -22,25 +22,25 @@ authors:
 - Rafael Silva-Rocha
 - Gustavo H. Goldman
 tags:
-- '"Animals"'
-- '"Aspergillosis/microbiology"'
-- '"Aspergillus fumigatus/*enzymology/metabolism/*pathogenicity"'
-- '"Female"'
-- '"Fungal Proteins/metabolism"'
-- '"MAP Kinase Signaling System"'
-- '"Mice"'
-- '"Inbred BALB C"'
-- '"Mitogen-Activated Protein Kinases/*metabolism"'
-- '"Osmotic Pressure/physiology"'
-- '"Oxidative Stress/genetics/physiology"'
-- '"Phosphorylation"'
-- '"Protein-Serine-Threonine Kinases/*genetics/metabolism"'
-- '"Signal Transduction"'
-- '"Sirolimus/pharmacology"'
-- '"Spores"'
-- '"Fungal/metabolism"'
-- '"TOR Serine-Threonine Kinases/genetics/metabolism"'
-- '"Virulence"'
+- Animals
+- Aspergillosis/microbiology
+- Aspergillus fumigatus/*enzymology/metabolism/*pathogenicity
+- Female
+- Fungal Proteins/metabolism
+- MAP Kinase Signaling System
+- Mice
+- Inbred BALB C
+- Mitogen-Activated Protein Kinases/*metabolism
+- Osmotic Pressure/physiology
+- Oxidative Stress/genetics/physiology
+- Phosphorylation
+- Protein-Serine-Threonine Kinases/*genetics/metabolism
+- Signal Transduction
+- Sirolimus/pharmacology
+- Spores
+- Fungal/metabolism
+- TOR Serine-Threonine Kinases/genetics/metabolism
+- Virulence
 categories: []
 date: '2016-11-01'
 lastmod: 2021-11-03T00:16:32-03:00
@@ -61,7 +61,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:52.297669Z'
+publishDate: '2022-08-30T13:17:11.333613Z'
 publication_types:
 - '2'
 abstract: The serine-threonine kinase TOR, the Target of Rapamycin, is an important

@@ -13,25 +13,25 @@ authors:
 - Birgit Kersten
 - Bernd Mueller-Roeber
 tags:
-- '"Computational Biology/*methods/trends"'
-- '"*Databases"'
-- '"Genetic"'
-- '"Databases"'
-- '"Protein"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"Gene Regulatory Networks"'
-- '"*Genes"'
-- '"Genome"'
-- '"Information Storage and Retrieval/methods"'
-- '"Internet"'
-- '"Plant Diseases/genetics"'
-- '"Plant Proteins/metabolism"'
-- '"Plants/*metabolism"'
-- '"Protein Structure"'
-- '"Tertiary"'
-- '"Software"'
-- '"Transcription Factors/*metabolism"'
+- Computational Biology/*methods/trends
+- '*Databases'
+- Genetic
+- Databases
+- Protein
+- Gene Expression Regulation
+- Plant
+- Gene Regulatory Networks
+- '*Genes'
+- Genome
+- Information Storage and Retrieval/methods
+- Internet
+- Plant Diseases/genetics
+- Plant Proteins/metabolism
+- Plants/*metabolism
+- Protein Structure
+- Tertiary
+- Software
+- Transcription Factors/*metabolism
 categories: []
 date: '2010-01-01'
 lastmod: 2021-11-03T00:16:54-03:00
@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:16.564500Z'
+publishDate: '2022-08-30T13:17:14.193318Z'
 publication_types:
 - '2'
 abstract: The Plant Transcription Factor Database (PlnTFDB; http://plntfdb.bio.uni-potsdam.de/v3.0/)

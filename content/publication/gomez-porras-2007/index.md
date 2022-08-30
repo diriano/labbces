@@ -12,21 +12,21 @@ authors:
 - Jorge E. Mayer
 - Bernd Mueller-Roeber
 tags:
-- '"Abscisic Acid/*pharmacology"'
-- '"Arabidopsis/*genetics"'
-- '"Base Sequence"'
-- '"Chromosome Mapping/methods"'
-- '"Computational Biology"'
-- '"Gene Dosage"'
-- '"Gene Expression Regulation"'
-- '"Plant/*drug effects"'
-- '"Gene Order"'
-- '"Genes"'
-- '"Plant"'
-- '"*Genome"'
-- '"Molecular Sequence Data"'
-- '"Oryza/*genetics"'
-- '"Response Elements/*drug effects"'
+- Abscisic Acid/*pharmacology
+- Arabidopsis/*genetics
+- Base Sequence
+- Chromosome Mapping/methods
+- Computational Biology
+- Gene Dosage
+- Gene Expression Regulation
+- Plant/*drug effects
+- Gene Order
+- Genes
+- Plant
+- '*Genome'
+- Molecular Sequence Data
+- Oryza/*genetics
+- Response Elements/*drug effects
 categories: []
 date: '2007-08-01'
 lastmod: 2021-11-03T00:17:01-03:00
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:23.559345Z'
+publishDate: '2022-08-30T13:17:15.031700Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: In plants, complex regulatory mechanisms are at the core of

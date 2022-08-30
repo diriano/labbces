@@ -11,19 +11,19 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Bernd Mueller-Roeber
 tags:
-- '"Base Sequence"'
-- '"*DNA Primers"'
-- '"Databases"'
-- '"Genetic"'
-- '"Internet"'
-- '"Molecular Sequence Data"'
-- '"Nucleic Acid Probes"'
-- '"Polymerase Chain Reaction/*methods"'
-- '"Sensitivity and Specificity"'
-- '"Sequence Analysis"'
-- '"DNA/*methods"'
-- '"*Software"'
-- '"User-Computer Interface"'
+- Base Sequence
+- '*DNA Primers'
+- Databases
+- Genetic
+- Internet
+- Molecular Sequence Data
+- Nucleic Acid Probes
+- Polymerase Chain Reaction/*methods
+- Sensitivity and Specificity
+- Sequence Analysis
+- DNA/*methods
+- '*Software'
+- User-Computer Interface
 categories: []
 date: '2008-11-01'
 lastmod: 2021-11-03T00:16:55-03:00
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:17.548279Z'
+publishDate: '2022-08-30T13:17:14.312497Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Medium- to large-scale expression profiling using quantitative

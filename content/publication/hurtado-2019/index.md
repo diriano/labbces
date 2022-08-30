@@ -13,23 +13,23 @@ authors:
 - Laura Beatriz Inocente
 - Helaine Carrer
 tags:
-- '"Arabidopsis/genetics"'
-- '"Cell Wall/genetics"'
-- '"Eucalyptus/genetics"'
-- '"Gene Expression Profiling/methods"'
-- '"Gene Expression Regulation"'
-- '"Plant/genetics"'
-- '"Genes"'
-- '"Lamiaceae/*genetics"'
-- '"Plant Proteins/genetics"'
-- '"Populus/genetics"'
-- '"Transcription Factors/*genetics/*metabolism"'
-- '"Transcriptome/genetics"'
-- '"Wood/genetics/metabolism"'
-- '"Xylem/genetics/metabolism"'
-- '"*secondary growth"'
-- '"*tropical tree"'
-- '"*wood formation"'
+- Arabidopsis/genetics
+- Cell Wall/genetics
+- Eucalyptus/genetics
+- Gene Expression Profiling/methods
+- Gene Expression Regulation
+- Plant/genetics
+- Genes
+- Lamiaceae/*genetics
+- Plant Proteins/genetics
+- Populus/genetics
+- Transcription Factors/*genetics/*metabolism
+- Transcriptome/genetics
+- Wood/genetics/metabolism
+- Xylem/genetics/metabolism
+- '*secondary growth'
+- '*tropical tree'
+- '*wood formation'
 categories: []
 date: '2019-12-01'
 lastmod: 2021-11-03T00:16:13-03:00
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:32.178916Z'
+publishDate: '2022-08-30T13:17:08.917912Z'
 publication_types:
 - '2'
 abstract: NAC proteins are one of the largest families of plant-specific transcription

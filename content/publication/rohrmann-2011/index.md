@@ -22,15 +22,15 @@ authors:
 - James J. Giovannoni
 - Alisdair R. Fernie
 tags:
-- '"Fruit/*growth & development"'
-- '"*Gene Expression Profiling"'
-- '"*Gene Expression Regulation"'
-- '"Plant"'
-- '"*Genes"'
-- '"Lycopersicon esculentum/genetics/growth & development/*metabolism"'
-- '"Oligonucleotide Array Sequence Analysis"'
-- '"*Real-Time Polymerase Chain Reaction"'
-- '"Transcription Factors/genetics/*metabolism"'
+- Fruit/*growth & development
+- '*Gene Expression Profiling'
+- '*Gene Expression Regulation'
+- Plant
+- '*Genes'
+- Lycopersicon esculentum/genetics/growth & development/*metabolism
+- Oligonucleotide Array Sequence Analysis
+- '*Real-Time Polymerase Chain Reaction'
+- Transcription Factors/genetics/*metabolism
 categories: []
 date: '2011-12-01'
 lastmod: 2021-11-03T00:16:50-03:00
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:12.420864Z'
+publishDate: '2022-08-30T13:17:13.698620Z'
 publication_types:
 - '2'
 abstract: Maturation of fleshy fruits such as tomato (Solanum lycopersicum) is subject

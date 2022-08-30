@@ -10,14 +10,14 @@ authors:
 - Shailesh V. Joshi
 - Diego Mauricio Riaño Pachón
 tags:
-- '"Cytoplasmic male sterility"'
-- '"Mitochondria"'
-- '"Phylogenetics"'
-- '"Plastomes"'
-- '"RNA splicing"'
-- '"Saccharum cultum"'
-- '"Sugarcane"'
-- '"Sugarcane origins"'
+- Cytoplasmic male sterility
+- Mitochondria
+- Phylogenetics
+- Plastomes
+- RNA splicing
+- Saccharum cultum
+- Sugarcane
+- Sugarcane origins
 categories: []
 date: '2019-01-01'
 lastmod: 2021-11-03T00:16:14-03:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:33.210211Z'
+publishDate: '2022-08-30T13:17:09.039958Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Chloroplast genomes provide insufficient phylogenetic information\

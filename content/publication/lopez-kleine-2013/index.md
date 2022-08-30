@@ -12,19 +12,19 @@ authors:
 - Silvia Restrepo
 - Diego Mauricio Riaño-Pachón
 tags:
-- '"Arabidopsis/genetics"'
-- '"Chromosomes"'
-- '"Plant/*genetics"'
-- '"Conserved Sequence"'
-- '"Databases"'
-- '"Genetic"'
-- '"Disease Resistance/*genetics"'
-- '"*Genes"'
-- '"Plant"'
-- '"Lycopersicon esculentum/*genetics/metabolism/microbiology"'
-- '"Multigene Family"'
-- '"*Phytophthora infestans"'
-- '"Synteny"'
+- Arabidopsis/genetics
+- Chromosomes
+- Plant/*genetics
+- Conserved Sequence
+- Databases
+- Genetic
+- Disease Resistance/*genetics
+- '*Genes'
+- Plant
+- Lycopersicon esculentum/*genetics/metabolism/microbiology
+- Multigene Family
+- '*Phytophthora infestans'
+- Synteny
 categories: []
 date: '2013-04-01'
 lastmod: 2021-11-03T00:16:47-03:00
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:08.386435Z'
+publishDate: '2022-08-30T13:17:13.222121Z'
 publication_types:
 - '2'
 abstract: The main objective of the present study was to reanalyse tomato expression

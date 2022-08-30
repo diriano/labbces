@@ -17,8 +17,8 @@ authors:
 - Valéria Mafra
 - Camila Caldana
 tags:
-- '"C4 model; biomass; energy sensing; metabolism; nutrient sensing; plant growth
-  and development; signaling; target of rapamycin pathway"'
+- C4 model; biomass; energy sensing; metabolism; nutrient sensing; plant growth and
+  development; signaling; target of rapamycin pathway
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-02T23:46:53-03:00
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:28.149276Z'
+publishDate: '2022-08-30T13:17:08.445541Z'
 publication_types:
 - '2'
 abstract: The Target of Rapamycin (TOR) kinase pathway integrates energy and nutrient

@@ -18,26 +18,26 @@ authors:
 - Neil Andrew Brown
 - Gustavo H. Goldman
 tags:
-- '"Animals"'
-- '"Aspergillosis/*microbiology"'
-- '"Aspergillus fumigatus/*enzymology/genetics"'
-- '"Cell Wall"'
-- '"Female"'
-- '"Fungal Proteins/*genetics/metabolism"'
-- '"Gene Expression Profiling"'
-- '"Gene Expression Regulation"'
-- '"Fungal"'
-- '"Gene Ontology"'
-- '"Genome"'
-- '"Mice"'
-- '"Inbred BALB C"'
-- '"Mitogen-Activated Protein Kinases/*genetics/metabolism"'
-- '"Osmotic Pressure"'
-- '"Signal Transduction"'
-- '"Stress"'
-- '"Physiological"'
-- '"Transcription Factors/physiology"'
-- '"*Transcriptome"'
+- Animals
+- Aspergillosis/*microbiology
+- Aspergillus fumigatus/*enzymology/genetics
+- Cell Wall
+- Female
+- Fungal Proteins/*genetics/metabolism
+- Gene Expression Profiling
+- Gene Expression Regulation
+- Fungal
+- Gene Ontology
+- Genome
+- Mice
+- Inbred BALB C
+- Mitogen-Activated Protein Kinases/*genetics/metabolism
+- Osmotic Pressure
+- Signal Transduction
+- Stress
+- Physiological
+- Transcription Factors/physiology
+- '*Transcriptome'
 categories: []
 date: '2017-04-01'
 lastmod: 2021-11-03T00:16:30-03:00
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:50.313815Z'
+publishDate: '2022-08-30T13:17:11.090568Z'
 publication_types:
 - '2'
 abstract: Invasive aspergillosis is predominantly caused by Aspergillus fumigatus,

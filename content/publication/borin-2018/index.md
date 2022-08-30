@@ -12,12 +12,12 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Juliana Velasco de Castro Oliveira
 tags:
-- '"2G ethanol"'
-- '"Trichoderma reesei"'
-- '"Xyr1-binding site"'
-- '"enzymatic cocktail"'
-- '"gene co-expression network"'
-- '"sugarcane bagasse"'
+- 2G ethanol
+- Trichoderma reesei
+- Xyr1-binding site
+- enzymatic cocktail
+- gene co-expression network
+- sugarcane bagasse
 categories: []
 date: '2018-01-01'
 lastmod: 2021-11-03T00:16:18-03:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:37.166504Z'
+publishDate: '2022-08-30T13:17:09.519489Z'
 publication_types:
 - '2'
 abstract: The biomass-degrading fungus Trichoderma reesei has been considered a model

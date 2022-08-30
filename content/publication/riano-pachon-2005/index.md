@@ -10,17 +10,17 @@ authors:
 - Ingo Dreyer
 - Bernd Mueller-Roeber
 tags:
-- '"Arabidopsis/*genetics"'
-- '"Arabidopsis Proteins/genetics"'
-- '"Expressed Sequence Tags"'
-- '"*Gene Expression Profiling"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"*Genes"'
-- '"RNA"'
-- '"Messenger"'
-- '"Transcription"'
-- '"Genetic"'
+- Arabidopsis/*genetics
+- Arabidopsis Proteins/genetics
+- Expressed Sequence Tags
+- '*Gene Expression Profiling'
+- Gene Expression Regulation
+- Plant
+- '*Genes'
+- RNA
+- Messenger
+- Transcription
+- Genetic
 categories: []
 date: '2005-07-01'
 lastmod: 2021-11-03T00:17:03-03:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:25.509094Z'
+publishDate: '2022-08-30T13:17:15.269170Z'
 publication_types:
 - '2'
 abstract: Expressed sequence tags (ESTs) represent a huge resource for the discovery

@@ -9,8 +9,8 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Verónica S. Di Stilio
 tags:
-- '"Ranunculaceae; Thalictrum hernandezii; Thalictrum thalictroides; draft genome;
-  floral transcriptome; pollination syndrome; sexual system"'
+- Ranunculaceae; Thalictrum hernandezii; Thalictrum thalictroides; draft genome; floral
+  transcriptome; pollination syndrome; sexual system
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-02T23:52:05-03:00
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:30.161366Z'
+publishDate: '2022-08-30T13:17:08.684907Z'
 publication_types:
 - '2'
 abstract: Multiple transitions from insect to wind pollination are associated with

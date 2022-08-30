@@ -22,23 +22,23 @@ authors:
 - Ozgur Bayram
 - Gustavo H. Goldman
 tags:
-- '"Animals"'
-- '"Aspergillus fumigatus/*enzymology/genetics/metabolism/*pathogenicity"'
-- '"Chromatography"'
-- '"Liquid"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Gene Deletion"'
-- '"Gene Expression Profiling"'
-- '"Invasive Pulmonary Aspergillosis/microbiology/pathology"'
-- '"Iron/*metabolism"'
-- '"Mass Spectrometry"'
-- '"Metabolomics"'
-- '"Mice"'
-- '"Phosphoprotein Phosphatases/genetics/*metabolism"'
-- '"Proteome/analysis"'
-- '"*Secondary Metabolism"'
-- '"Virulence"'
+- Animals
+- Aspergillus fumigatus/*enzymology/genetics/metabolism/*pathogenicity
+- Chromatography
+- Liquid
+- Disease Models
+- Animal
+- Gene Deletion
+- Gene Expression Profiling
+- Invasive Pulmonary Aspergillosis/microbiology/pathology
+- Iron/*metabolism
+- Mass Spectrometry
+- Metabolomics
+- Mice
+- Phosphoprotein Phosphatases/genetics/*metabolism
+- Proteome/analysis
+- '*Secondary Metabolism'
+- Virulence
 categories: []
 date: '2017-12-01'
 lastmod: 2021-11-03T00:16:21-03:00
@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:41.318767Z'
+publishDate: '2022-08-30T13:17:09.996818Z'
 publication_types:
 - '2'
 abstract: 'Metal restriction imposed by mammalian hosts during an infection is a common

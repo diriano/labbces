@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:59.323332Z'
+publishDate: '2022-08-30T13:17:12.171328Z'
 publication_types:
 - '2'
 abstract: Genomes from four Clostridium sp. strains considered to be mesophilic anaerobic

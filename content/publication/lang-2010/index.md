@@ -16,24 +16,24 @@ authors:
 - Bernd Mueller-Roeber
 - Stefan A. Rensing
 tags:
-- '"Evolution"'
-- '"Molecular"'
-- '"Gene Duplication"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"Genome"'
-- '"Genome-Wide Association Study"'
-- '"Markov Chains"'
-- '"MicroRNAs/genetics"'
-- '"Phylogeny"'
-- '"Plant Proteins/classification/genetics/metabolism"'
-- '"Plants/*genetics/metabolism"'
-- '"RNA"'
-- '"Plant/genetics"'
-- '"Time Factors"'
-- '"Transcription Factors/classification/genetics/metabolism"'
-- '"Transcription"'
-- '"Genetic"'
+- Evolution
+- Molecular
+- Gene Duplication
+- Gene Expression Regulation
+- Plant
+- Genome
+- Genome-Wide Association Study
+- Markov Chains
+- MicroRNAs/genetics
+- Phylogeny
+- Plant Proteins/classification/genetics/metabolism
+- Plants/*genetics/metabolism
+- RNA
+- Plant/genetics
+- Time Factors
+- Transcription Factors/classification/genetics/metabolism
+- Transcription
+- Genetic
 categories: []
 date: '2010-07-01'
 lastmod: 2021-11-03T00:16:52-03:00
@@ -54,7 +54,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:14.509519Z'
+publishDate: '2022-08-30T13:17:13.952174Z'
 publication_types:
 - '2'
 abstract: Evolutionary retention of duplicated genes encoding transcription-associated

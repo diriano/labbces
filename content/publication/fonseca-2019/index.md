@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:36.225525Z'
+publishDate: '2022-08-30T13:17:09.404054Z'
 publication_types:
 - '2'
 abstract: We report on the nearly complete genome sequence of Clostridium beijerinckii

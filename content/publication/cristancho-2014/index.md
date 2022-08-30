@@ -20,12 +20,12 @@ authors:
 - Yehoshua Anikster
 - Alvaro L. Gaitán
 tags:
-- '"RNA-seq"'
-- '"coffee"'
-- '"coffee rust"'
-- '"genetic variants"'
-- '"genome"'
-- '"plant pathogens diversity"'
+- RNA-seq
+- coffee
+- coffee rust
+- genetic variants
+- genome
+- plant pathogens diversity
 categories: []
 date: '2014-01-01'
 lastmod: 2021-11-03T00:16:40-03:00
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:01.322330Z'
+publishDate: '2022-08-30T13:17:12.399277Z'
 publication_types:
 - '2'
 abstract: Coffee leaf rust caused by the fungus Hemileia vastatrix is the most damaging

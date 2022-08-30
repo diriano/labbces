@@ -123,26 +123,26 @@ authors:
 - Daniel S. Rokhsar
 - Arthur R. Grossman
 tags:
-- '"Algal Proteins/*genetics/*physiology"'
-- '"Animals"'
-- '"*Biological Evolution"'
-- '"Chlamydomonas reinhardtii/*genetics/physiology"'
-- '"Chloroplasts/metabolism"'
-- '"Computational Biology"'
-- '"DNA"'
-- '"Algal/genetics"'
-- '"Flagella/metabolism"'
-- '"Genes"'
-- '"*Genome"'
-- '"Genomics"'
-- '"Membrane Transport Proteins/genetics/physiology"'
-- '"Molecular Sequence Data"'
-- '"Multigene Family"'
-- '"Photosynthesis/genetics"'
-- '"Phylogeny"'
-- '"Plants/genetics"'
-- '"Proteome"'
-- '"Sequence Analysis"'
+- Algal Proteins/*genetics/*physiology
+- Animals
+- '*Biological Evolution'
+- Chlamydomonas reinhardtii/*genetics/physiology
+- Chloroplasts/metabolism
+- Computational Biology
+- DNA
+- Algal/genetics
+- Flagella/metabolism
+- Genes
+- '*Genome'
+- Genomics
+- Membrane Transport Proteins/genetics/physiology
+- Molecular Sequence Data
+- Multigene Family
+- Photosynthesis/genetics
+- Phylogeny
+- Plants/genetics
+- Proteome
+- Sequence Analysis
 categories: []
 date: '2007-10-01'
 lastmod: 2021-11-03T00:17:00-03:00
@@ -163,7 +163,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:22.580797Z'
+publishDate: '2022-08-30T13:17:14.901658Z'
 publication_types:
 - '2'
 abstract: Chlamydomonas reinhardtii is a unicellular green alga whose lineage diverged

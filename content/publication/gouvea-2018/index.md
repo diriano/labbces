@@ -14,28 +14,28 @@ authors:
 - Sergio Akira Uyemura
 - Taisa Magnani Dinamarco
 tags:
-- '"Aspergillus fumigatus/genetics/*growth & development/metabolism"'
-- '"Cellulases/genetics/metabolism"'
-- '"Cellulose/*chemistry"'
-- '"Chromatography"'
-- '"Liquid"'
-- '"Fructose/chemistry"'
-- '"Fungal Proteins/*genetics/*metabolism"'
-- '"Gene Expression Profiling/*methods"'
-- '"Glucan Endo-1"'
-- '"3-beta-D-Glucosidase/genetics/metabolism"'
-- '"Glycoside Hydrolases/genetics/metabolism"'
-- '"Saccharum/metabolism"'
-- '"Sequence Analysis"'
-- '"RNA/methods"'
-- '"Tandem Mass Spectrometry"'
-- '"Xylosidases/genetics/metabolism"'
-- '"Aspergillus fumigatus"'
-- '"CAZymes"'
-- '"Lignocellulose breakdown"'
-- '"RNA-Seq"'
-- '"Secretome"'
-- '"Sugarcane bagasse"'
+- Aspergillus fumigatus/genetics/*growth & development/metabolism
+- Cellulases/genetics/metabolism
+- Cellulose/*chemistry
+- Chromatography
+- Liquid
+- Fructose/chemistry
+- Fungal Proteins/*genetics/*metabolism
+- Gene Expression Profiling/*methods
+- Glucan Endo-1
+- 3-beta-D-Glucosidase/genetics/metabolism
+- Glycoside Hydrolases/genetics/metabolism
+- Saccharum/metabolism
+- Sequence Analysis
+- RNA/methods
+- Tandem Mass Spectrometry
+- Xylosidases/genetics/metabolism
+- Aspergillus fumigatus
+- CAZymes
+- Lignocellulose breakdown
+- RNA-Seq
+- Secretome
+- Sugarcane bagasse
 categories: []
 date: '2018-04-01'
 lastmod: 2021-11-03T00:16:19-03:00
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:38.186591Z'
+publishDate: '2022-08-30T13:17:09.637402Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Sugarcane bagasse has been proposed as a lignocellulosic residue

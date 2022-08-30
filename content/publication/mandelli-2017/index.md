@@ -20,18 +20,18 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Fabio Marcio Squina
 tags:
-- '"*Adaptation"'
-- '"Physiological"'
-- '"Extremophiles/*physiology"'
-- '"Hot Temperature"'
-- '"Mass Spectrometry"'
-- '"Metabolomics"'
-- '"Proteomics"'
-- '"Thermus/*physiology"'
-- '"Transcriptome"'
-- '"Peroxyl radical scavenging activity"'
-- '"Thermozeaxanthins"'
-- '"Transcriptomics"'
+- '*Adaptation'
+- Physiological
+- Extremophiles/*physiology
+- Hot Temperature
+- Mass Spectrometry
+- Metabolomics
+- Proteomics
+- Thermus/*physiology
+- Transcriptome
+- Peroxyl radical scavenging activity
+- Thermozeaxanthins
+- Transcriptomics
 categories: []
 date: '2017-07-01'
 lastmod: 2021-11-03T00:16:25-03:00
@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:45.285624Z'
+publishDate: '2022-08-30T13:17:10.470939Z'
 publication_types:
 - '2'
 abstract: Thermus filiformis is an aerobic thermophilic bacterium isolated from a

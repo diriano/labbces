@@ -17,18 +17,18 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Paulo Mazzafera
 tags:
-- '"*Gene Expression Profiling"'
-- '"In Situ Hybridization"'
-- '"Phylogeny"'
-- '"Plant Proteins/chemistry/genetics/*metabolism"'
-- '"Protein Conformation"'
-- '"Saccharum/*metabolism"'
-- '"*Transcription"'
-- '"Genetic"'
-- '"Lignan"'
-- '"Protein homology modeling"'
-- '"Saccharum spp."'
-- '"Transcriptome- and genome-wide survey"'
+- '*Gene Expression Profiling'
+- In Situ Hybridization
+- Phylogeny
+- Plant Proteins/chemistry/genetics/*metabolism
+- Protein Conformation
+- Saccharum/*metabolism
+- '*Transcription'
+- Genetic
+- Lignan
+- Protein homology modeling
+- Saccharum spp.
+- Transcriptome- and genome-wide survey
 categories: []
 date: '2017-12-01'
 lastmod: 2021-11-03T00:16:23-03:00
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:43.285041Z'
+publishDate: '2022-08-30T13:17:10.231908Z'
 publication_types:
 - '2'
 abstract: Dirigent (DIR) proteins, encoded by DIR genes, are referred to as \"dirigent\"

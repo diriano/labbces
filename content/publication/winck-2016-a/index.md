@@ -13,14 +13,14 @@ authors:
 - Camila Caldana
 - Andrés F. González Barrios
 tags:
-- '"bioenergy"'
-- '"biomass"'
-- '"biotechnology"'
-- '"carbon uptake"'
-- '"chlamydomonas"'
-- '"flux balance analysis"'
-- '"microalgae"'
-- '"systems biology"'
+- bioenergy
+- biomass
+- biotechnology
+- carbon uptake
+- chlamydomonas
+- flux balance analysis
+- microalgae
+- systems biology
 categories: []
 date: '2016-01-01'
 lastmod: 2021-11-03T00:16:34-03:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:54.343639Z'
+publishDate: '2022-08-30T13:17:11.568564Z'
 publication_types:
 - '2'
 abstract: The development of microalgae sustainable applications needs better understanding

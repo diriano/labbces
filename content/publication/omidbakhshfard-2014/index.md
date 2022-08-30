@@ -12,30 +12,30 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Bernd Mueller-Roeber
 tags:
-- '"Arabidopsis/drug effects/*genetics"'
-- '"Chromosomes"'
-- '"Plant/genetics"'
-- '"DNA"'
-- '"Plant/genetics/*isolation & purification"'
-- '"Formaldehyde/*pharmacology"'
-- '"Genes"'
-- '"Essential"'
-- '"Genome"'
-- '"High-Throughput Nucleotide Sequencing"'
-- '"Molecular Biology/*methods"'
-- '"Polymerase Chain Reaction"'
-- '"Regulatory Sequences"'
-- '"Nucleic Acid/*genetics"'
-- '"Sonication"'
-- '"Arabidopsis thaliana"'
-- '"FAIRE-qPCR"'
-- '"FAIRE-seq"'
-- '"chromatin"'
-- '"cis-regulatory elements"'
-- '"epigenomics"'
-- '"gene expression"'
-- '"gene regulatory network"'
-- '"transcription factor"'
+- Arabidopsis/drug effects/*genetics
+- Chromosomes
+- Plant/genetics
+- DNA
+- Plant/genetics/*isolation & purification
+- Formaldehyde/*pharmacology
+- Genes
+- Essential
+- Genome
+- High-Throughput Nucleotide Sequencing
+- Molecular Biology/*methods
+- Polymerase Chain Reaction
+- Regulatory Sequences
+- Nucleic Acid/*genetics
+- Sonication
+- Arabidopsis thaliana
+- FAIRE-qPCR
+- FAIRE-seq
+- chromatin
+- cis-regulatory elements
+- epigenomics
+- gene expression
+- gene regulatory network
+- transcription factor
 categories: []
 date: '2014-06-01'
 lastmod: 2021-11-03T00:16:44-03:00
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:05.384610Z'
+publishDate: '2022-08-30T13:17:12.870070Z'
 publication_types:
 - '2'
 abstract: The control of gene expression by transcriptional regulators and other types

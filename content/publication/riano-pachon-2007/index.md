@@ -10,18 +10,18 @@ authors:
 - Ingo Dreyer
 - Bernd Mueller-Roeber
 tags:
-- '"*Databases"'
-- '"Protein"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"Gene Regulatory Networks"'
-- '"Genome"'
-- '"Plants/*genetics"'
-- '"Promoter Regions"'
-- '"Genetic"'
-- '"Sequence Alignment/methods"'
-- '"Transcription Factors/*genetics"'
-- '"User-Computer Interface"'
+- '*Databases'
+- Protein
+- Gene Expression Regulation
+- Plant
+- Gene Regulatory Networks
+- Genome
+- Plants/*genetics
+- Promoter Regions
+- Genetic
+- Sequence Alignment/methods
+- Transcription Factors/*genetics
+- User-Computer Interface
 categories: []
 date: '2007-02-01'
 lastmod: 2021-11-03T00:17:02-03:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:24.563374Z'
+publishDate: '2022-08-30T13:17:15.150622Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Transcription factors (TFs) are key regulatory proteins that

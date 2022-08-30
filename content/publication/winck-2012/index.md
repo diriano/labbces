@@ -11,15 +11,15 @@ authors:
 - Jens Rupprecht
 - Bernd Mueller-Roeber
 tags:
-- '"Amino Acid Motifs"'
-- '"Amino Acid Sequence"'
-- '"Cell Nucleus/*metabolism"'
-- '"Chlamydomonas reinhardtii/*metabolism"'
-- '"Molecular Sequence Data"'
-- '"Peptide Fragments/chemistry"'
-- '"Plant Proteins/chemistry/*metabolism"'
-- '"Proteome/chemistry/*metabolism"'
-- '"Tandem Mass Spectrometry"'
+- Amino Acid Motifs
+- Amino Acid Sequence
+- Cell Nucleus/*metabolism
+- Chlamydomonas reinhardtii/*metabolism
+- Molecular Sequence Data
+- Peptide Fragments/chemistry
+- Plant Proteins/chemistry/*metabolism
+- Proteome/chemistry/*metabolism
+- Tandem Mass Spectrometry
 categories: []
 date: '2012-01-01'
 lastmod: 2021-11-03T00:16:50-03:00
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:11.466885Z'
+publishDate: '2022-08-30T13:17:13.581187Z'
 publication_types:
 - '2'
 abstract: Nuclear proteins play a central role in regulating gene expression. Their

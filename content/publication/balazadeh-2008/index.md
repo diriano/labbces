@@ -9,19 +9,19 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - B. Mueller-Roeber
 tags:
-- '"Arabidopsis/*genetics/growth & development/physiology"'
-- '"Arabidopsis Proteins/genetics/*physiology"'
-- '"Cellular Senescence/*genetics"'
-- '"Gene Expression Profiling"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"Oligonucleotide Array Sequence Analysis"'
-- '"Plant Leaves/genetics/growth & development/physiology"'
-- '"Reverse Transcriptase Polymerase Chain Reaction"'
-- '"Seeds/genetics/growth & development/physiology"'
-- '"Sodium Chloride/metabolism"'
-- '"Transcription Factors/genetics/*physiology"'
-- '"Water/metabolism"'
+- Arabidopsis/*genetics/growth & development/physiology
+- Arabidopsis Proteins/genetics/*physiology
+- Cellular Senescence/*genetics
+- Gene Expression Profiling
+- Gene Expression Regulation
+- Plant
+- Oligonucleotide Array Sequence Analysis
+- Plant Leaves/genetics/growth & development/physiology
+- Reverse Transcriptase Polymerase Chain Reaction
+- Seeds/genetics/growth & development/physiology
+- Sodium Chloride/metabolism
+- Transcription Factors/genetics/*physiology
+- Water/metabolism
 categories: []
 date: '2008-09-01'
 lastmod: 2021-11-03T00:16:57-03:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:19.631233Z'
+publishDate: '2022-08-30T13:17:14.551354Z'
 publication_types:
 - '2'
 abstract: 'Senescence is a highly regulated process, eventually leading to cell and

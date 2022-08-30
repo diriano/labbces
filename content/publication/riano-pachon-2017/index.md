@@ -8,10 +8,10 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Lucia Mattiello
 tags:
-- '"genomics"'
-- '"long reads"'
-- '"polyploid"'
-- '"sugarcane"'
+- genomics
+- long reads
+- polyploid
+- sugarcane
 categories: []
 date: '2017-01-01'
 lastmod: 2021-11-03T00:16:22-03:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:42.311603Z'
+publishDate: '2022-08-30T13:17:10.120377Z'
 publication_types:
 - '2'
 abstract: Sugarcane commercial cultivar SP80-3280 has been used as a model for genomic

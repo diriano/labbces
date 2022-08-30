@@ -16,12 +16,12 @@ authors:
 - Neil C. Bruce
 - Igor Polikarpov
 tags:
-- '"Bioethanol"'
-- '"Compost"'
-- '"Lignocellulose"'
-- '"Metatranscriptomics"'
-- '"Microbial community"'
-- '"Xylanase"'
+- Bioethanol
+- Compost
+- Lignocellulose
+- Metatranscriptomics
+- Microbial community
+- Xylanase
 categories: []
 date: '2017-01-01'
 lastmod: 2021-11-03T00:16:19-03:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:39.213228Z'
+publishDate: '2022-08-30T13:17:09.758682Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Using globally abundant crop residues as a carbon source for

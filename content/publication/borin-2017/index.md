@@ -18,24 +18,24 @@ authors:
 - Gustavo Henrique Goldman
 - Juliana Velasco de Castro Oliveira
 tags:
-- '"Aspergillus niger/genetics/*metabolism/physiology"'
-- '"Biomass"'
-- '"Cellulose/*metabolism"'
-- '"Fungal Proteins/genetics/metabolism"'
-- '"*Gene Expression Profiling"'
-- '"Lignin/metabolism"'
-- '"Saccharum/*chemistry/*microbiology"'
-- '"Sequence Analysis"'
-- '"RNA"'
-- '"*Steam"'
-- '"Trichoderma/genetics/*metabolism/physiology"'
-- '"*Aspergillus niger"'
-- '"*CAZymes"'
-- '"*RNA-seq"'
-- '"*Sugarcane bagasse"'
-- '"*Transcription factors"'
-- '"*Transporters"'
-- '"*Trichoderma reesei"'
+- Aspergillus niger/genetics/*metabolism/physiology
+- Biomass
+- Cellulose/*metabolism
+- Fungal Proteins/genetics/metabolism
+- '*Gene Expression Profiling'
+- Lignin/metabolism
+- Saccharum/*chemistry/*microbiology
+- Sequence Analysis
+- RNA
+- '*Steam'
+- Trichoderma/genetics/*metabolism/physiology
+- '*Aspergillus niger'
+- '*CAZymes'
+- '*RNA-seq'
+- '*Sugarcane bagasse'
+- '*Transcription factors'
+- '*Transporters'
+- '*Trichoderma reesei'
 categories: []
 date: '2017-06-01'
 lastmod: 2021-11-03T00:16:24-03:00
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:44.301761Z'
+publishDate: '2022-08-30T13:17:10.349506Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Second generation (2G) ethanol is produced by breaking down

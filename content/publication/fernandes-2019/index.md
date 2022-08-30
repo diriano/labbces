@@ -17,21 +17,21 @@ authors:
 - José G. C. Pradella
 - Isabel Rocha
 tags:
-- '"Dietary Supplements"'
-- '"Eicosapentaenoic Acid/*biosynthesis"'
-- '"Fungal Proteins/*genetics/metabolism"'
-- '"*Gene Expression Regulation"'
-- '"Fungal"'
-- '"Genome"'
-- '"Fungal/*genetics"'
-- '"High-Throughput Nucleotide Sequencing/*methods"'
-- '"Industrial Microbiology/methods"'
-- '"Pythium/*genetics/metabolism"'
-- '"*Eicosapentaenoic acid"'
-- '"*Metabolic annotation"'
-- '"*Pythium irregulare"'
-- '"unsaturated fatty acids"'
-- '"whole-genome sequence"'
+- Dietary Supplements
+- Eicosapentaenoic Acid/*biosynthesis
+- Fungal Proteins/*genetics/metabolism
+- '*Gene Expression Regulation'
+- Fungal
+- Genome
+- Fungal/*genetics
+- High-Throughput Nucleotide Sequencing/*methods
+- Industrial Microbiology/methods
+- Pythium/*genetics/metabolism
+- '*Eicosapentaenoic acid'
+- '*Metabolic annotation'
+- '*Pythium irregulare'
+- unsaturated fatty acids
+- whole-genome sequence
 categories: []
 date: '2019-06-01'
 lastmod: 2021-11-03T00:16:15-03:00
@@ -52,7 +52,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:34.220966Z'
+publishDate: '2022-08-30T13:17:09.159453Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Pythium irregulare is an oleaginous Oomycete able to accumulate

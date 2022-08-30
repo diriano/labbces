@@ -16,11 +16,11 @@ authors:
 - Jens Rupprecht
 - Bernd Mueller-Roeber
 tags:
-- '"Carbon/deficiency/*metabolism"'
-- '"Carbonic Anhydrases/genetics/metabolism"'
-- '"Chlamydomonas reinhardtii/genetics/*metabolism"'
-- '"Gene Regulatory Networks/genetics/physiology"'
-- '"Transcription Factors/genetics/metabolism"'
+- Carbon/deficiency/*metabolism
+- Carbonic Anhydrases/genetics/metabolism
+- Chlamydomonas reinhardtii/genetics/*metabolism
+- Gene Regulatory Networks/genetics/physiology
+- Transcription Factors/genetics/metabolism
 categories: []
 date: '2013-01-01'
 lastmod: 2021-11-03T00:16:46-03:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:07.366305Z'
+publishDate: '2022-08-30T13:17:13.104632Z'
 publication_types:
 - '2'
 abstract: The unicellular green alga Chlamydomonas reinhardtii is a long-established

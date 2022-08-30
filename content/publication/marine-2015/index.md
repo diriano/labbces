@@ -11,16 +11,16 @@ authors:
 - Diego Mauricio Riaño-Pachón
 - Gustavo Henrique Goldman
 tags:
-- '"Animals"'
-- '"DNA"'
-- '"Ribosomal/*genetics"'
-- '"Humans"'
-- '"Mycological Typing Techniques/methods"'
-- '"Piedra/diagnosis/microbiology/*therapy"'
-- '"Skin/*microbiology"'
-- '"Trichosporon/classification/*pathogenicity"'
-- '"Trichosporonosis/diagnosis/*microbiology/*therapy"'
-- '"Yeasts"'
+- Animals
+- DNA
+- Ribosomal/*genetics
+- Humans
+- Mycological Typing Techniques/methods
+- Piedra/diagnosis/microbiology/*therapy
+- Skin/*microbiology
+- Trichosporon/classification/*pathogenicity
+- Trichosporonosis/diagnosis/*microbiology/*therapy
+- Yeasts
 categories: []
 date: '2015-07-01'
 lastmod: 2021-11-03T00:16:37-03:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:58.326180Z'
+publishDate: '2022-08-30T13:17:12.054564Z'
 publication_types:
 - '2'
 abstract: ''

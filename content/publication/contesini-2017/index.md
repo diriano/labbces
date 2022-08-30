@@ -17,17 +17,17 @@ authors:
 - Munir S. Skaf
 - André Ricardo Damasio
 tags:
-- '"Aspergillus nidulans/*enzymology/growth & development"'
-- '"Cellulose/*pharmacology"'
-- '"Crystallography"'
-- '"Glycoside Hydrolases/*chemistry/physiology"'
-- '"Glycosylation"'
-- '"Molecular Dynamics Simulation"'
-- '"*Arabinoxylan"'
-- '"*Aspergillus nidulans"'
-- '"*GH62"'
-- '"*N-glycosylation"'
-- '"*α-l-Arabinofuranosidase"'
+- Aspergillus nidulans/*enzymology/growth & development
+- Cellulose/*pharmacology
+- Crystallography
+- Glycoside Hydrolases/*chemistry/physiology
+- Glycosylation
+- Molecular Dynamics Simulation
+- '*Arabinoxylan'
+- '*Aspergillus nidulans'
+- '*GH62'
+- '*N-glycosylation'
+- '*α-l-Arabinofuranosidase'
 categories: []
 date: '2017-12-01'
 lastmod: 2021-11-03T00:16:20-03:00
@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:40.277114Z'
+publishDate: '2022-08-30T13:17:09.877464Z'
 publication_types:
 - '2'
 abstract: Carbohydrate-Active Enzymes are key enzymes for biomass-to-bioproducts conversion.

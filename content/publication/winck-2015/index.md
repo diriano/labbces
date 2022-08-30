@@ -18,24 +18,24 @@ authors:
 - Ricardo D. Coletta
 - Adriana F. Paes Leme
 tags:
-- '"Adult"'
-- '"Aged"'
-- '"80 and over"'
-- '"Biomarkers"'
-- '"Tumor/immunology/metabolism"'
-- '"Chromatography"'
-- '"Liquid/methods"'
-- '"Extracellular Vesicles/immunology/*metabolism"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Mouth Neoplasms/*immunology/*metabolism"'
-- '"Prognosis"'
-- '"Proteome/*immunology/*metabolism"'
-- '"Proteomics/methods"'
-- '"Saliva/immunology/*metabolism"'
-- '"Tandem Mass Spectrometry/methods"'
+- Adult
+- Aged
+- 80 and over
+- Biomarkers
+- Tumor/immunology/metabolism
+- Chromatography
+- Liquid/methods
+- Extracellular Vesicles/immunology/*metabolism
+- Female
+- Humans
+- Male
+- Middle Aged
+- Mouth Neoplasms/*immunology/*metabolism
+- Prognosis
+- Proteome/*immunology/*metabolism
+- Proteomics/methods
+- Saliva/immunology/*metabolism
+- Tandem Mass Spectrometry/methods
 categories: []
 date: '2015-11-01'
 lastmod: 2021-11-03T00:16:36-03:00
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:57.297672Z'
+publishDate: '2022-08-30T13:17:11.933373Z'
 publication_types:
 - '2'
 abstract: The development and progression of oral cavity squamous cell carcinoma (OSCC)

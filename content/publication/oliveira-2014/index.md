@@ -14,22 +14,22 @@ authors:
 - Gustavo Henrique Goldman
 - Diego Mauricio Riaño-Pachón
 tags:
-- '"Animals"'
-- '"Brazil"'
-- '"DNA"'
-- '"Fungal/genetics"'
-- '"Ribosomal Spacer/genetics"'
-- '"Endo-1"'
-- '"4-beta Xylanases/metabolism"'
-- '"Insecta/*microbiology"'
-- '"Intestines/microbiology"'
-- '"Molecular Sequence Data"'
-- '"Mycological Typing Techniques"'
-- '"*Phylogeny"'
-- '"Plant Roots"'
-- '"*Saccharum"'
-- '"Sequence Analysis"'
-- '"Ustilaginales/*classification/genetics/isolation & purification"'
+- Animals
+- Brazil
+- DNA
+- Fungal/genetics
+- Ribosomal Spacer/genetics
+- Endo-1
+- 4-beta Xylanases/metabolism
+- Insecta/*microbiology
+- Intestines/microbiology
+- Molecular Sequence Data
+- Mycological Typing Techniques
+- '*Phylogeny'
+- Plant Roots
+- '*Saccharum'
+- Sequence Analysis
+- Ustilaginales/*classification/genetics/isolation & purification
 categories: []
 date: '2014-06-01'
 lastmod: 2021-11-03T00:16:43-03:00
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:04.356170Z'
+publishDate: '2022-08-30T13:17:12.752415Z'
 publication_types:
 - '2'
 abstract: A novel ustilaginomycetous yeast isolated from the intestinal tract of an

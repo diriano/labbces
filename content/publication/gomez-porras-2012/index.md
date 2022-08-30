@@ -14,13 +14,13 @@ authors:
 - Alonso Rodríguez-Navarro
 - Ingo Dreyer
 tags:
-- '"Selaginella"'
-- '"channel"'
-- '"high-affinity"'
-- '"potassium"'
-- '"transport"'
-- '"voltage-dependent"'
-- '"voltage-independent"'
+- Selaginella
+- channel
+- high-affinity
+- potassium
+- transport
+- voltage-dependent
+- voltage-independent
 categories: []
 date: '2012-01-01'
 lastmod: 2021-11-03T00:16:49-03:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:10.431490Z'
+publishDate: '2022-08-30T13:17:13.460264Z'
 publication_types:
 - '2'
 abstract: As heritage from early evolution, potassium (K(+)) is absolutely necessary

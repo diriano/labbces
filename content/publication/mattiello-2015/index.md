@@ -17,14 +17,14 @@ authors:
 - Carlos Alberto Labate
 - Marcelo Menossi
 tags:
-- '"*Gene Expression Regulation"'
-- '"Plant"'
-- '"Molecular Sequence Data"'
-- '"Plant Leaves/genetics/growth & development"'
-- '"Plant Proteins/*genetics/metabolism"'
-- '"Saccharum/*genetics/*growth & development"'
-- '"Sequence Analysis"'
-- '"DNA"'
+- '*Gene Expression Regulation'
+- Plant
+- Molecular Sequence Data
+- Plant Leaves/genetics/growth & development
+- Plant Proteins/*genetics/metabolism
+- Saccharum/*genetics/*growth & development
+- Sequence Analysis
+- DNA
 categories: []
 date: '2015-12-01'
 lastmod: 2021-11-03T00:16:35-03:00
@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:52:55.325849Z'
+publishDate: '2022-08-30T13:17:11.689525Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Sugarcane is one of the major crops worldwide. It is cultivated

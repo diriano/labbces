@@ -110,30 +110,30 @@ authors:
 - Daniel Rokhsar
 - Igor V. Grigoriev
 tags:
-- '"*Biological Evolution"'
-- '"Bryopsida/genetics"'
-- '"Chlamydomonas/chemistry/genetics"'
-- '"DNA Transposable Elements"'
-- '"Evolution"'
-- '"Molecular"'
-- '"Gene Expression Regulation"'
-- '"Plant"'
-- '"Genes"'
-- '"*Genome"'
-- '"Magnoliopsida/chemistry/genetics"'
-- '"MicroRNAs/genetics"'
-- '"Molecular Sequence Data"'
-- '"Phylogeny"'
-- '"Plant Proteins/genetics/metabolism"'
-- '"Proteome/analysis"'
-- '"RNA Editing"'
-- '"RNA"'
-- '"Plant/genetics"'
-- '"Repetitive Sequences"'
-- '"Nucleic Acid"'
-- '"Selaginellaceae/*genetics/growth & development/metabolism"'
-- '"Sequence Analysis"'
-- '"DNA"'
+- '*Biological Evolution'
+- Bryopsida/genetics
+- Chlamydomonas/chemistry/genetics
+- DNA Transposable Elements
+- Evolution
+- Molecular
+- Gene Expression Regulation
+- Plant
+- Genes
+- '*Genome'
+- Magnoliopsida/chemistry/genetics
+- MicroRNAs/genetics
+- Molecular Sequence Data
+- Phylogeny
+- Plant Proteins/genetics/metabolism
+- Proteome/analysis
+- RNA Editing
+- RNA
+- Plant/genetics
+- Repetitive Sequences
+- Nucleic Acid
+- Selaginellaceae/*genetics/growth & development/metabolism
+- Sequence Analysis
+- DNA
 categories: []
 date: '2011-05-01'
 lastmod: 2021-11-03T00:16:51-03:00
@@ -154,7 +154,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:13.445646Z'
+publishDate: '2022-08-30T13:17:13.819806Z'
 publication_types:
 - '2'
 abstract: 'Vascular plants appeared ~410 million years ago, then diverged into several

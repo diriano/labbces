@@ -10,16 +10,16 @@ authors:
 - Silvia Restrepo
 - Diego Mauricio Riaño-Pachón
 tags:
-- '"Animals"'
-- '"Biodiversity"'
-- '"Evolution"'
-- '"Molecular"'
-- '"Gene Expression Regulation"'
-- '"Genome"'
-- '"Multigene Family"'
-- '"Phylogeny"'
-- '"Stramenopiles/*classification/*genetics"'
-- '"Transcription Factors/*genetics"'
+- Animals
+- Biodiversity
+- Evolution
+- Molecular
+- Gene Expression Regulation
+- Genome
+- Multigene Family
+- Phylogeny
+- Stramenopiles/*classification/*genetics
+- Transcription Factors/*genetics
 categories: []
 date: '2014-01-01'
 lastmod: 2021-11-03T00:16:41-03:00
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-24T20:53:02.312295Z'
+publishDate: '2022-08-30T13:17:12.519863Z'
 publication_types:
 - '2'
 abstract: The biological diversity among Stramenopiles is striking; they range from
