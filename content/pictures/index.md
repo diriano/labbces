@@ -59,4 +59,4 @@ gallery_item:
   image: BCES_2010.jpg
   caption: The LabBCES starting at Universidad de Los Andes circa 2010
 ---
-{{< gallery album="bces" resizeOptions="600x300 q90 Lanczos">}} 
+{{< gallery album="bces" resizeOptions="60x30 q90 Lanczos">}} 
