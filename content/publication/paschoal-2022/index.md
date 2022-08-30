@@ -21,7 +21,7 @@ authors:
 - Mônica L. Rossi
 - Valdemar Tornisielo
 - Camila Caldana
-- Diego M. Riano-Pachon
+- Diego Mauricio Riaño-Pachón
 - Igor Cesarino
 - Paulo J. P. L. Teixeira
 - Antonio Figueira
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:15.961052Z'
+publishDate: '2022-08-30T13:21:59.313947Z'
 publication_types:
 - '2'
 abstract: Witches' broom disease of cacao is caused by the pathogenic fungus Moniliophthora

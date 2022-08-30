@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:12.752415Z'
+publishDate: '2022-08-30T13:21:56.036841Z'
 publication_types:
 - '2'
 abstract: A novel ustilaginomycetous yeast isolated from the intestinal tract of an

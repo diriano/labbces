@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:12.399277Z'
+publishDate: '2022-08-30T13:21:55.679748Z'
 publication_types:
 - '2'
 abstract: Coffee leaf rust caused by the fungus Hemileia vastatrix is the most damaging

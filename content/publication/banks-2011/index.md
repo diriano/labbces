@@ -154,7 +154,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:13.819806Z'
+publishDate: '2022-08-30T13:21:57.102126Z'
 publication_types:
 - '2'
 abstract: 'Vascular plants appeared ~410 million years ago, then diverged into several

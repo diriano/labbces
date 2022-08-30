@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:14.071456Z'
+publishDate: '2022-08-30T13:21:57.357060Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Protein phosphorylation is an important post-translational

@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:15.846916Z'
+publishDate: '2022-08-30T13:21:59.191300Z'
 publication_types:
 - '2'
 abstract: Trehalose-6-phosphate (T6P) is an intermediate of trehalose biosynthesis

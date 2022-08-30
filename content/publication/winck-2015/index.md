@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:11.933373Z'
+publishDate: '2022-08-30T13:21:55.202296Z'
 publication_types:
 - '2'
 abstract: The development and progression of oral cavity squamous cell carcinoma (OSCC)

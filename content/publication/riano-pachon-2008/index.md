@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:14.785777Z'
+publishDate: '2022-08-30T13:21:58.080738Z'
 publication_types:
 - '2'
 abstract: Transcription factors (TFs) control gene expression by interacting with

@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:10.593591Z'
+publishDate: '2022-08-30T13:21:53.852283Z'
 publication_types:
 - '2'
 abstract: 'SUMMARY: ploidyNGS is a model-free, open source tool to visualize and explore

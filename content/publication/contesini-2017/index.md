@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:09.877464Z'
+publishDate: '2022-08-30T13:21:53.132188Z'
 publication_types:
 - '2'
 abstract: Carbohydrate-Active Enzymes are key enzymes for biomass-to-bioproducts conversion.

@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:14.429533Z'
+publishDate: '2022-08-30T13:21:57.720640Z'
 publication_types:
 - '2'
 abstract: The GABI Primary Database, GabiPD (http://www.gabipd.org/), was established

@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:14.669569Z'
+publishDate: '2022-08-30T13:21:57.959246Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Transcription factors of the basic leucine zipper (bZIP) family

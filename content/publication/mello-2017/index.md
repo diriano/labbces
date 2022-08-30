@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:09.758682Z'
+publishDate: '2022-08-30T13:21:53.014026Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Using globally abundant crop residues as a carbon source for

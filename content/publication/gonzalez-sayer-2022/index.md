@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:15.384215Z'
+publishDate: '2022-08-30T13:21:58.706851Z'
 publication_types:
 - '2'
 abstract: Pseudocercospora ulei is the causal agent of South American Leaf Blight

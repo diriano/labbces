@@ -12,7 +12,7 @@ authors:
 - André L. Tagliaferro
 - Marielle Vitti
 - Silvana Creste
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Renato V. Dos Santos
 - Antonio Figueira
 tags:
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-30T13:17:15.734649Z'
+publishDate: '2022-08-30T13:21:59.068280Z'
 publication_types:
 - '2'
 abstract: Nitrate uptake in sugarcane roots is regulated at the transcriptional and
