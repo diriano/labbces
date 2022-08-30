@@ -41,7 +41,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Eliana is doing her master studying antibiotic resistant in Salmonella strains isolated from poultry using genomics.
+Eliana finished in August 2022 her master studying antibiotic resistant in Salmonella strains isolated from poultry using genomics.
