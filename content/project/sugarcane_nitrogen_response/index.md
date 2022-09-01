@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sugarcane_nitrogen_response"
+title: "Sugarcane co-expressaion networks in nitrogen response"
 summary: ""
 authors: []
 tags: []
