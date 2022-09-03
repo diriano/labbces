@@ -3,8 +3,8 @@
 
 title: "Sugarcane Genomics and Transcriptomics Resources"
 summary: ""
-authors: []
-tags: []
+authors: [diego-mauricio-riano-pachon,fvperes,jmmunozp, vrossi]
+tags: [transcriptomics, pan-transcriptome, sugarcane, genomics, SP80-3280]
 categories: []
 date: 2022-08-28T15:29:30-03:00
 
@@ -40,9 +40,13 @@ url_video: ""
 slides: ""
 ---
 
+Sugarcane is a widely cultivated plant within Poaceae, which fixates CO2 via C4 photosynthesis. Sugarcane is one of the most important crops around the world, as it is the main source for common sugar, bioenergy and other bioproducts. Modern sugarcane cultivars are the result of classical breeding approaches thar involved interspecific crosses between members of the complex Saccharum. Their genomes are among the most complex in crops. These hybrids are polyploid, highly polymorphic and can present aneuploidy. Recent developments in sequencing technologies are allowing accessing Sugarcane genetic information on a genome-wide level. In Brazil, two research groups used long read sequencing technologies to read the genome information for the hybrid SP80-3280, to a shallow level, here we present a comparison of these two genome versions and a comprehensive gene set for this cultivar. Besides the Brazilian cultivar, there is a French, and a Colombian cultivar with genome sequences available, as well as genomic information for some of the parental species. However, there are many studies accessing the transcriptome of diverse cultivars from around the world. Despite of this, these transcriptomics data cannot easily be exploited due to the lack of a commonly accepted reference. We have exploited publicly available transcriptomics data for 48 cultivars from around the world to create a sugarcane pan-transcriptome. In total we detected over five million protein-coding transcripts, that can be clustered into similarity groups, representing genes and closely related paralogues. We were able to identify approximately twelve thousand groups of transcripts that tend to appear in all cultivars, that we call core set. We show that we can attribute a probable origin for most of these transcripts (S. spontaneum, S. officinarum or S. barbieri).  We are making this resource available to the public, and we are developing a platform to ease mining of these data.
+
 {{< figure src="posterCBFV_2022.png" caption="Poster presented at the XVIII Brazilian Congress of Plant Physiology" numbered="false" width=250 >}}
 
 {{% staticref "uploads/posterCBFV_2022.pdf" "newtab" %}}Poster PDF{{% /staticref %}}
+
+
 
 # Data availability
 
