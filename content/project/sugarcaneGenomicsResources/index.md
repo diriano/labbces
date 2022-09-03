@@ -40,7 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-{{< figure src="posterCBFV_2022.jpg" caption="Poster presented at the XVIII Brazilian Congress of Plant Physiology" numbered="false" >}}
+{{< figure src="posterCBFV_2022.png" caption="Poster presented at the XVIII Brazilian Congress of Plant Physiology" numbered="false" width=250 >}}
+
 # Data availability
 
 [Transcriptome assemblies (FASTA)](https://figshare.com/articles/dataset/Genotype_specific_transcriptome_assemblies_-_Fasta_files/18623039): 48 genotype-specific transcriptome assemblies exploiting public RNA-Seq data.
