@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Computational, Evolutionary and Sistems Biology
+  Computational, Evolutionary and Systems Biology
   Laboratory
 hero_media: welcome.jpg
 design:
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Computational, Evolutionary and Sistems Biology Laboratory - LabBCES** is a research laboratory, located at the Center for Nuclear Energy in Agriculture (CENA), University of São Paulo (USP), in the city of Piracicaba since 2018. If you are interested in joining our research group please contact us.
+The **Computational, Evolutionary and Systems Biology Laboratory - LabBCES** is a research laboratory, located at the Center for Nuclear Energy in Agriculture (CENA), University of São Paulo (USP), in the city of Piracicaba since 2018. If you are interested in joining our research group please contact us.
