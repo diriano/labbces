@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sugarcane co-expressaion networks in nitrogen response"
+title: "Sugarcane co-expression networks in nitrogen response"
 summary: ""
-authors: []
+authors: [diego-mauricio-riano-pachon,fvperes,jmmunozp]
 tags: []
 categories: []
 date: 2022-09-01T15:54:54-03:00
