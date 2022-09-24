@@ -14,6 +14,18 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_092022_Pizza1.jpeg
+  caption: Sharing a pizza in September 2022, part of the team.
+  resize_options: 600x
+- album: bces
+  image: BCES_092022_Pizza2.jpeg
+  caption: Sharing a pizza in September 2022, part of the team.
+  resize_options: 600x
+- album: bces
+  image: BCES_092022_Pizza2.jpeg
+  caption: Sharing a pizza in September 2022, part of the team.
+  resize_options: 600x
+- album: bces
   image: BCES_2021_BBQ.jpg
   caption: BBQ with part of the group in Piracicaba, Dec 2021.
   resize_options: 600x
