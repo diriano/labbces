@@ -27,7 +27,7 @@ gallery_item:
   resize_options: 600x
 - album: bces
   image: Master_Defence_VSR_082022.jpeg
-  caption: The newest MSc from the group.- Master thesis defense - Verusca Semmler Rossi, Dec, 2022.
+  caption: The newest MSc from the group - Master thesis defense - Verusca Semmler Rossi, August 2022.
   resize_options: 600x
 - album: bces
   image: BCES_2021_BBQ.jpg
