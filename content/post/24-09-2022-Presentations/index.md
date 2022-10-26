@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Participation of group memeber in Conferences"
+title: "Participation of group members in Conferences"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Durign the last few months several member of LabBCES have participated of Conferences and other events sharing their research results.
+Durign the last few months several members of LabBCES have participated of Conferences and other events sharing their research results.
 
 # ISMB2022
 ISMB is the largest conference on Bioinformatics, this year the group participated remotely, with some posters.
