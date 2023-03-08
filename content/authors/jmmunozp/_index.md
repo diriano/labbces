@@ -6,7 +6,7 @@ title: Jorge Mario Muñoz Perez
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student - PPG - Ciências - Sugarcane Co-expression networks
 
 # Organizations/Affiliations
 organizations:
