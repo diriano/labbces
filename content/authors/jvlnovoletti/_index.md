@@ -50,7 +50,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Alumni
 ---
 
 João is looking at cis-regulatory elements in co-expressed genes of sugarcane during leaf development.
