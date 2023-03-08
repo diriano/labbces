@@ -6,7 +6,7 @@ title: Bianca Pastos
 superuser: false
 
 # Role/position
-role: Undergrad student - Computer Science (UNESP Rio Claro -IGCE)
+role: Undergrad student - Computer Science (UNESP Rio Claro -IGCE) - Conekt Bioenergy
 
 # Organizations/Affiliations
 organizations:

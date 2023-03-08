@@ -6,7 +6,7 @@ title: Thiago Miyazaki
 superuser: false
 
 # Role/position
-role: Undergrad student - Computing Science - UNESP - Conekt Bioenergy
+role: Undergrad student - Computing Science (UNESP) - Conekt Bioenergy
 
 # Organizations/Affiliations
 organizations:

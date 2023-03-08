@@ -6,7 +6,7 @@ title: Beatriz Rodrigues Estevam
 superuser: false
 
 # Role/position
-role: Undergrad student - Biological Sciences (ESALQ/USP)
+role: Undergrad student - Biological Sciences (ESALQ/USP) - Sugarcane genomics
 
 # Organizations/Affiliations
 organizations:

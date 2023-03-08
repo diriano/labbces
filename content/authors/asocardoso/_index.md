@@ -6,7 +6,7 @@ title: Arthur Shuzo Owtake Cardoso
 superuser: false
 
 # Role/position
-role: Undergrad student - Biotechnology (USP)
+role: Undergrad student - Biotechnology (USP) - Conekt Bioenergy
 
 # Organizations/Affiliations
 organizations:

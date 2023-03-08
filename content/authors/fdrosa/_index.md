@@ -6,7 +6,7 @@ title: Fernando Della Rosa
 superuser: false
 
 # Role/position
-role: Undergrad student - Biotechnology (UFScar)
+role: Undergrad student - Biotechnology (UFScar) - Orchid and Bromeliad Genomics
 
 # Organizations/Affiliations
 organizations:
