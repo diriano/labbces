@@ -6,7 +6,7 @@ title: Isabella de Oliveira Conte Poletto
 superuser: false
 
 # Role/position
-role: Master student
+role: Master student - PPG - Ciências CENA/USP - Sugarcane Gene Copy Number Analysis
 
 # Organizations/Affiliations
 organizations:
