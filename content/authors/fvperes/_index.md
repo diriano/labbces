@@ -6,7 +6,7 @@ title: Felipe Vaz Peres
 superuser: false
 
 # Role/position
-role: Master student - PPG - Ciencias CENA/USP - Long ncRNAs in sugarcane
+role: Master student - PPG - Ciências CENA/USP - Long ncRNAs in sugarcane
 
 # Organizations/Affiliations
 organizations:
