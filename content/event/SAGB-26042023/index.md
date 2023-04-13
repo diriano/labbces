@@ -70,5 +70,5 @@ O primeiro encontro do Seminário de Afinidades em Genômica e Bioinformática (
 
 Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
 
-O SAGB é um evento de integracão do campus Luiz de Queiroz da Univesidade de São Paulo organizado conjuntamente por professores e pesquisadores das duas unidades da campus: ESALQ e CENA.
+O SAGB é um evento de integração do campus Luiz de Queiroz da Univesidade de São Paulo organizado conjuntamente por professores e pesquisadores das duas unidades do campus: ESALQ e CENA.
 
