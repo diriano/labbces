@@ -66,7 +66,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [SAGB]
 ---
-O primeiro encontro do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 26 de abril de 2023 as 10, no Anfiteatro Epaminondas S. B. Ferraz da central de aulas do Centro de Energia Nuclear na Agricultura (CENA) da Universidade de São Paulo (USP). Neste primeiro encontro discutiremos o artigo "Genome sequencing—the dawn of a game-changing era" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6781137/. Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
+O primeiro encontro do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 26 de abril de 2023 as 10, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste primeiro encontro discutiremos o artigo ["Genome sequencing—the dawn of a game-changing era"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6781137/).
 
-O SAGB é um evento de integracão do campus Luis de Queiroz da Univesidade de São Paulo organizado conjuntamente por professores e pesquisadores das duas unidades da campus: ESALQ e CENA.
+Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
+
+O SAGB é um evento de integracão do campus Luiz de Queiroz da Univesidade de São Paulo organizado conjuntamente por professores e pesquisadores das duas unidades da campus: ESALQ e CENA.
 
