@@ -4,7 +4,7 @@
 title: "Seminário de Afinidades em Genômica e Bioinformática - Primeiro encontro"
 event: Seminário de Afinidades em Genômica e Bioinformática - 26 de abril de 2023
 event_url:
-location: Anfiteatro Epaminondas S. B. Ferraz - CENTRAL de aulas, CENA/USP
+location: Anfiteatro Epaminondas S. B. Ferraz - Central de aulas, CENA/USP
 address:
   street: Av. Centenário, 303
   city: Piracicaba
@@ -34,7 +34,7 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Center"
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).
@@ -74,4 +74,3 @@ O primeiro encontro do Seminário de Afinidades em Genômica e Bioinformática (
 Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
 
 O SAGB é um evento de integração do campus Luiz de Queiroz da Univesidade de São Paulo organizado conjuntamente por professores e pesquisadores das duas unidades do campus: ESALQ e CENA.
-
