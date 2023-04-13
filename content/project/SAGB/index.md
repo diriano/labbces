@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Um novo seminário para tratar temas relacionados à genômica e bioinformática aberto a todos os membros do campus Luiz de Queiroz da Universidade de São Paulo
+
 # Comitê organizador
 Dr. Renato Augusto Corrêa dos Santos
 Dr. Thais Dal’Sasso
