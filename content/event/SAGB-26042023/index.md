@@ -5,8 +5,8 @@ title: "SAGB 26042023"
 event: Seminário de Afinidades em Genômica e Bioinformática - 26 de abril de 2023
 event_url:
 location: Anfiteatro Epaminondas S. B. Ferraz - CENTRAL de aulas, CENA/USP
-address: Av. Centenario, 303
-  street:
+address:
+  street: Av. Centenário, 303
   city: Piracicaba
   region:
   postcode:
