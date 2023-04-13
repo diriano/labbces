@@ -25,3 +25,7 @@ then edit the index.md file
 
 hugo new  --kind project project/my-project-name
 #https://wowchemy.com/docs/content/projects/
+
+- Adding events
+hugo new  --kind event event/SAGB-26042023
+#For instance our seminario de afinidades
