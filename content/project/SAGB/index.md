@@ -50,8 +50,10 @@ Um novo seminário para tratar temas relacionados à genômica e bioinformática
 # Periodicidade e local
 A cada dois meses, na última quarta-feira do mês às 10h. Um encontro no CENA/USP, o seguinte na ESALQ/USP, e repete.
 # Metodologia
-Em cada encontro duas pessoas discutirão o artigo selecionado, uma pessoa da ESALQ e outra do CENA
-No final de cada encontro serão definidos os líderes do próximo encontro, tentando que sejam voluntários 
+Em cada encontro duas pessoas discutirão o artigo selecionado, uma pessoa da ESALQ e outra do CENA.
+
+No final de cada encontro serão definidos os líderes do próximo encontro, tentando que sejam voluntários.
+
 # Objetivos
 - Criar um espaço de conversa informal e aberto a todos os alunos (graduação e pós-graduação) e pesquisadores do campus LQ, em temas relacionados a Genômica e Bioinformática.
 - Servir como um instrumento para difundir o interesse e conhecimento de Genômica e Bioinformática no campus LQ
