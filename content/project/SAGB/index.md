@@ -39,14 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Um novo seminário para tratar temas relacionados à genômica e bioinformática aberto a todos os membros do campus Luiz de Queiroz da Universidade de São Paulo
+Um novo seminário para tratar temas relacionados à genômica e bioinformática aberto a todos os membros do campus Luiz de Queiroz da Universidade de São Paulo, e organizado em conjunto por pesquisadores e docentes das duas unidades do campus Luiz de Queiroz (CENA e ESALQ)
 
 # Comitê organizador
-- Dr. Renato Augusto Corrêa dos Santos
-- Dr. Thais Dal’Sasso
-- Prof. Dr. Claudia Vitorello
-- Prof. Dr. Douglas Silva Domingues
-- Prof. Dr. Diego M. Riaño-Pachón
+- Dr. Renato Augusto Corrêa dos Santos (CENA)
+- Dr. Thais Dal’Sasso (ESALQ)
+- Prof. Dr. Claudia Vitorello (ESALQ)
+- Prof. Dr. Douglas Silva Domingues (ESALQ)
+- Prof. Dr. Diego M. Riaño-Pachón (CENA)
 # Periodicidade e local
 A cada dois meses, na última quarta-feira do mês às 10h. Um encontro no CENA/USP, o seguinte na ESALQ/USP, e repete.
 # Metodologia
