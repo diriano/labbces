@@ -5,13 +5,13 @@ title: "SAGB 26042023"
 event: Seminário de Afinidades em Genômica e Bioinformática - 26 de abril de 2023
 event_url:
 location: Anfiteatro Epaminondas S. B. Ferraz - CENTRAL de aulas, CENA/USP
-address: Av. Centenário, 303
+address: Av. Centenario, 303
   street:
   city: Piracicaba
   region:
   postcode:
   country: Brasil
-summary: Discussão do artigo Genome sequencing—the dawn of a game-changing era
+summary: Artigo Genome sequencing—the dawn of a game-changing era
 abstract:
 
 # Talk start and end times.
