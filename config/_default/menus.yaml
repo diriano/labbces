@@ -25,3 +25,6 @@ main:
   - name: Contact
     url: contact
     weight: 70
+  - name: Events
+    url: event
+    weight: 80
