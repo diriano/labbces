@@ -43,4 +43,6 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Sandra is looking for a postoc position in fugal genomics.
+Sandra is a postoc in fugal genomics at the University of Neuchatel in Switzerland.
+
+Her PhD thesis is publicly available at https://repositorio.unal.edu.co/handle/unal/80147
