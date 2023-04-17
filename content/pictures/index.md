@@ -14,6 +14,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_16042023_SnakemakeMeet.jpeg
+  caption: Working with Snakemake at Renatos's, april 2023.
+  resize_options: 600x
+- album: bces
   image: BCES_092022_Pizza1.jpeg
   caption: Sharing a pizza in September 2022, part of the team.
   resize_options: 600x
