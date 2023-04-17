@@ -52,3 +52,5 @@ user_groups:
 ---
 
 Verusca finished in August 2022 her master in the PPGs - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, studying in silico the expression profiles of transcription factors and CAZymes genes in sugarcane cultivar SP80-3280
+
+Get master dissertation is publicly available: https://www.teses.usp.br/teses/disponiveis/64/64133/tde-29092022-152934/pt-br.php
