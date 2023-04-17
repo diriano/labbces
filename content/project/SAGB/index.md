@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Um novo seminário para tratar temas relacionados à genômica e bioinformática aberto a todos os membros do campus Luiz de Queiroz da Universidade de São Paulo, e organizado em conjunto por pesquisadores e docentes das duas unidades do campus Luiz de Queiroz (CENA e ESALQ)
+Um novo seminário para tratar temas relacionados à genômica e bioinformática aberto a todos os membros do campus Luiz de Queiroz da Universidade de São Paulo, e organizado em conjunto por pesquisadores e docentes das duas unidades do campus Luiz de Queiroz (CENA e ESALQ). O intuito deste seminário é discutir temas relacionados a Genômica e Bioinformática, e outras áreas correlatas dentro das ômicas e programação científica que são muito bem vindas.
 
 # Comitê organizador
 - Dr. Renato Augusto Corrêa dos Santos (CENA)
