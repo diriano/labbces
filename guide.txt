@@ -29,3 +29,8 @@ hugo new  --kind project project/my-project-name
 - Adding events
 hugo new  --kind event event/SAGB-26042023
 #For instance our seminario de afinidades
+
+- Add a picture to the film roll
+
+Add the jpeg file to content/pictures/bces/
+Add description in content/pictures/index.md
