@@ -52,6 +52,8 @@ A cada dois meses, na última quarta-feira do mês às 10h. Um encontro no CENA/
 
 [Agenda do SAGB](https://calendar.google.com/calendar/u/0?cid=Y19kZTYzYTkxMTEzYjZiODk2ZTMxOGVhNDk2YTZjYTY4MmJiNjc1ODJlYmJiMjE5OWU2MDBiODM2Zjc1Mjk1MmQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
+<iframe src="https://calendar.google.com/calendar/embed?src=c_de63a91113b6b896e318ea496a6ca682bb67582ebbb2199e600b836f752952d0%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 # Metodologia
 Em cada encontro duas pessoas discutirão o artigo selecionado, uma pessoa da ESALQ e outra do CENA.
 
