@@ -49,6 +49,9 @@ Um novo seminário para tratar temas relacionados à genômica e bioinformática
 - Prof. Dr. Diego M. Riaño-Pachón (CENA)
 # Periodicidade e local
 A cada dois meses, na última quarta-feira do mês às 10h. Um encontro no CENA/USP, o seguinte na ESALQ/USP, e repete.
+
+[Agenda do SAGB](https://calendar.google.com/calendar/u/0?cid=Y19kZTYzYTkxMTEzYjZiODk2ZTMxOGVhNDk2YTZjYTY4MmJiNjc1ODJlYmJiMjE5OWU2MDBiODM2Zjc1Mjk1MmQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
 # Metodologia
 Em cada encontro duas pessoas discutirão o artigo selecionado, uma pessoa da ESALQ e outra do CENA.
 
