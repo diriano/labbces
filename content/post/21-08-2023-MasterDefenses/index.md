@@ -35,6 +35,6 @@ Mrs. Verusca successfully defended her master's project, entitled "Identificaç�
 
 # August 2023 - Defense Master Project Mrs. Isabella de Oliveira Conte Poletto
 
-![Defesa Isabella - 05-08-2022](DefesaIOCP_082022.jpg "Defesa Isabella - 05-08-2022")
+![Defesa Isabella - 18-08-2022](DefesaIOCP_082023.jpg "Defesa Isabella - 18-08-2023")
 
 Mrs. Isabella successfully defended her master's project entitled "Caracterização molecular de genes endógenos no genoma da cana-de-açúcar por captura e sequenciamento de DNA de terceira geração" on August 18th, 2023. The members of her assessment committee were Prof. Helaine Carrer and Prof. Maria Imaculada Zucchi.
