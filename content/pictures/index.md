@@ -15,7 +15,7 @@ header:
 gallery_item:
 - album: bces
   image: LabBCES_TimeCapsule_082023.jpg
-  caption: Picture of group memeber in august 20923, for the Tiem Capsule.
+  caption: Picture of group members in august 2023, for the Time Capsule.
   resize_options: 600x
 - album: bces
   image: Master_Defence_IOCP_082023.jpg
