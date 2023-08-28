@@ -40,7 +40,7 @@ slides:
 
 # Seminário de Afinidades em Genômica e Bioinformática (SAGB) 
 
-Genome Assembly in the telomere-to-telomere era
+## Genome Assembly in the telomere-to-telomere era
 
 Diego Mauricio Riano Pachoon
 
