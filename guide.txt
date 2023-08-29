@@ -34,3 +34,12 @@ hugo new  --kind event event/SAGB-26042023
 
 Add the jpeg file to content/pictures/bces/
 Add description in content/pictures/index.md
+
+
+-Adding slides
+
+hugo new --kind slides slides/SAGB-30082023/
+
+#Example hugo new --kind slides slides/SAGB-30082023/
+# Doc for example hugo new --kind slides slides/SAGB-30082023/
+#Doc https://wowchemy.com/docs/content/slides/
