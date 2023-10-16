@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Agronimic Engineering
+  - course: BSc in Agronomic Engineering
     institution: Universidad de Nariño, Colombia
     year: 2023
   - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment
