@@ -49,7 +49,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Isabella is a master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
+Isabella finished her master's at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo. She currently works at CTC.
