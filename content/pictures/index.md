@@ -14,6 +14,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCE_Churras15102023.jpg
+  caption: Picture of group members in october 2023, BBQ at Diego's.
+  resize_options: 600x
+- album: bces
   image: LabBCES_TimeCapsule_082023.jpg
   caption: Picture of group members in august 2023, for the Time Capsule.
   resize_options: 600x
