@@ -32,7 +32,6 @@ projects: []
 
 The "[XIV Simpósio dos Pós-Graduandos no CENA/USP](http://www.cena.usp.br/blog/?p=3054)" took place between setember 21st to 22nd in our campus. Three members of the lab made poster presentations:
 
-{{% staticref "uploads/posterCBFV_2022.pdf" "newtab" %}}Poster PDF{{% /staticref %}}
 - Beatriz R. Estevam, undergrad student, presented the poster {{% staticref "uploads/poster_SPCENAUP_brestevam_2023.pdf" "newtab" %}}"Seleção in silico de íntrons de cana-de-açúcar com potencial para melhorar o processo de edição de genoma".{{% /staticref %}}
 
 - Bianca Santos Pastos, undergrad student, presented the poster "Comparacão de redes de coexpressão de Setaria viridis".
