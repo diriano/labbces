@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Member of the lab participeated in the XIV Simpósio dos Pós-Graduandos no CENA"
+title: "Members of the lab participated in the XIV Simpósio dos Pós-Graduandos no CENA"
 subtitle: ""
 summary: ""
 authors: []
