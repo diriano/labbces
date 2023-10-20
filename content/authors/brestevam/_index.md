@@ -61,4 +61,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Beatriz has worked studying the SARS-CoV-2 genome and is currently doing phylogenetic analysis of enzymes involved in the degradation of plant biomass.
+Beatriz has worked in our group since 2020. First studying the SARS-CoV-2 genome, then doing phylogenetic analysis of enzymes involved in the degradation of plant biomass, and currently she is interesting in RNA splicing in Sugarcane.
