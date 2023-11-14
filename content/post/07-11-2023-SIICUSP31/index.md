@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Members of LabBCES at SIICUSP 29th - 2023"
+title: "Members of LabBCES at SIICUSP 31st - 2023"
 subtitle: ""
 summary: ""
 authors: []
