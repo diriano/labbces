@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Member of the lab participated in the XXIV Meeting of Genetics in Nordeast Brazil - ENGENE"
+title: "A member of our laboratory actively participated in the XXIV Meeting of Genetics in Northeast Brazil - ENGENE"
 subtitle: ""
 summary: ""
 authors: []
