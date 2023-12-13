@@ -14,39 +14,39 @@ header:
 
 gallery_item:
 - album: bces
-  image: BCE_Games08122023.jpg
+  image: BCES_2023_12_Games08122023.jpg
   caption: Picture of group members in December 2023, Games evening at Diego's.
   resize_options: 600x
 - album: bces
-  image: BCE_Churras15102023.jpg
+  image: BCES_2023_12_Churras15102023.jpg
   caption: Picture of group members in October 2023, BBQ at Diego's.
   resize_options: 600x
 - album: bces
-  image: LabBCES_TimeCapsule_082023.jpg
+  image: BCES_2023_08_TimeCapsule_082023.jpg
   caption: Picture of group members in August 2023, for the Time Capsule.
   resize_options: 600x
 - album: bces
-  image: Master_Defence_IOCP_082023.jpg
+  image: BCES_2023_08_Master_Defence_IOCP_082023.jpg
   caption: Master defense of Isabella O. C. Polletto, August 2023.
   resize_options: 600x
 - album: bces
-  image: BCES_16042023_SnakemakeMeet.jpeg
+  image: BCES_2023_04_SnakemakeMeet.jpeg
   caption: Working with Snakemake at Renatos's, April 2023.
   resize_options: 600x
 - album: bces
-  image: BCES_092022_Pizza1.jpeg
+  image: BCES_2022_09_Pizza1.jpeg
   caption: Sharing a pizza in September 2022, part of the team.
   resize_options: 600x
 - album: bces
-  image: BCES_092022_Pizza2.jpeg
+  image: BCES_2022_09_Pizza2.jpeg
   caption: Sharing a pizza in September 2022, part of the team.
   resize_options: 600x
 - album: bces
-  image: BCES_092022_Pizza2.jpeg
+  image: BCES_2022_09_Pizza3.jpeg
   caption: Sharing a pizza in September 2022, part of the team.
   resize_options: 600x
 - album: bces
-  image: Master_Defence_VSR_082022.jpeg
+  image: BCES_2022_08_Master_Defence_VSR_082022.jpeg
   caption: The newest MSc from the group - Master thesis defense - Verusca Semmler Rossi, August 2022.
   resize_options: 600x
 - album: bces
