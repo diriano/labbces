@@ -43,3 +43,13 @@ hugo new --kind slides slides/SAGB-30082023/
 #Example hugo new --kind slides slides/SAGB-30082023/
 # Doc for example hugo new --kind slides slides/SAGB-30082023/
 #Doc https://wowchemy.com/docs/content/slides/
+
+
+#In order to deploy the website in opur server labbces.cena.usp.br, we need to use hugo version 0.84.4, the latest version do not work with the templates from wowchemy
+hugo --gc --minify -b http://labbces.cena.usp.br/
+#and the copy to the server, which is already configure to serve from /home/labbces/www/
+
+hugo --gc --minify -b http://labbces.cena.usp.br/
+rsync -avz -e 'ssh -p 2222' public/ labbces@labbces.cena.usp.br:~/www/
+
+
