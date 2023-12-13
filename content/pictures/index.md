@@ -14,20 +14,24 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCE_Games08122023.jpg
+  caption: Picture of group members in December 2023, Games evening at Diego's.
+  resize_options: 600x
+- album: bces
   image: BCE_Churras15102023.jpg
-  caption: Picture of group members in october 2023, BBQ at Diego's.
+  caption: Picture of group members in October 2023, BBQ at Diego's.
   resize_options: 600x
 - album: bces
   image: LabBCES_TimeCapsule_082023.jpg
-  caption: Picture of group members in august 2023, for the Time Capsule.
+  caption: Picture of group members in August 2023, for the Time Capsule.
   resize_options: 600x
 - album: bces
   image: Master_Defence_IOCP_082023.jpg
-  caption: Master defense of Isabella O. C. Polletto, august 2023.
+  caption: Master defense of Isabella O. C. Polletto, August 2023.
   resize_options: 600x
 - album: bces
   image: BCES_16042023_SnakemakeMeet.jpeg
-  caption: Working with Snakemake at Renatos's, april 2023.
+  caption: Working with Snakemake at Renatos's, April 2023.
   resize_options: 600x
 - album: bces
   image: BCES_092022_Pizza1.jpeg
