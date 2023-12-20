@@ -57,7 +57,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Alumni
 ---
 
 Bianca has been working helping to program a local instance from CoNeKT platform and is studying normalization of RNA-Seq data for reconstruction of co-expression networks.
