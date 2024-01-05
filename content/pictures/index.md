@@ -14,6 +14,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2014_Foro_Internal_Bioinformatics_UniAndes_Diego_Riano_and_Alejandro_Reyes_Apr_10_2014.jpg
+  caption: Foro Internacional de Bioinformatica at UniAndes, together with Alejandro Reyes, April 2014, Bogotá, Colombia.
+  resize_options: 600x
+- album: bces
   image: BCES_2023_12_Games08122023.jpg
   caption: Picture of group members in December 2023, Games evening at Diego's.
   resize_options: 600x
