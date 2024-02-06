@@ -3,7 +3,7 @@
 
 title: "Large scale genome identification of CAZymes families involved in Xylan Mannan and degradation"
 summary: ""
-authors: []
+authors: [beatriz-rodrigues-estevam,dbrocha,diego-mauricio-riano-pachon]
 tags: []
 categories: []
 date: 2022-09-01T15:25:07-03:00
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Given the escalating energy demands and the increasing imperative to transition to sustainable energy sources, Brazil emerges as an important country in the production of bioenergy derived from the degradation of carbohydrates in plant material. Notably, sugarcane stands out as a primary source, although approximately 30% of the harvest consists solely of bagasse. The high cellulose content of bagasse, particularly in mannan and xylan, poses a challenge for its efficient utilization in energy production. Pre-treatments are necessary to facilitate the processing of bagasse. One such treatment involves the use of biological agents, specifically organisms capable of synthesizing proteins that degrade carbohydrates, known as CAZymes.
+
+Consequently, there is a need to identify CAZymes capable of breaking down these carbohydrates. However, the functional characterization of proteins involves significant costs, necessitating the development of processes to select CAZymes that show promising indications of degrading mannan and xylan, yet have not been thoroughly explored in terms of their function and structure. Building on this premise, the "Large scale genome identification of CAZymes families involved in Xylan Mannan degradation" project employed a predictive approach to identify CAZymes in approximately 380,000 genomes of bacteria, archaea, and fungi. This approach utilized publicly available data from the CAZy database and employed phylogenetic analysis to identify clades and/or groups exhibiting the presence of underexplored mannanases and xylanases.
+
+The number of potential sequences identified exceeds one million for both mannanases and xylanases, with a substantial proportion falling within groups exhibiting at least 30% similarity in protein sequences, yet without any explored enzymes. By incorporating EC code prediction data, it was possible to reduce the total number of CAZymes to approximately 32% of the initial count for mannan and approximately 22% for xylan.

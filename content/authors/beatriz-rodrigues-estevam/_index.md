@@ -17,17 +17,17 @@ organizations:
 bio: I am very passionate about the ability to solve biological problems with bioinformatics.
 
 interests:
-- Bioinformatics algorithms
+- Bioinformatic algorithms
 - Phylogenetic analysis
-- Protein Structures 
-- Informational Biology 
-- Synthetic Biology
+- RNA biology  
+- Sugarcane biology
+- Plants genomics
 
 education:
   courses:
   - course: BSc in Biological Sciences
     institution: University of São Paulo, Piracicaba, Brazil
-    year: 2024
+    year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bia.estevam.25@gmail.com'
+  link: 'mailto:bia.estevam.25@usp.br'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BiaREstevam
@@ -61,4 +61,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Beatriz has worked in our group since 2020. First studying the SARS-CoV-2 genome, then doing phylogenetic analysis of enzymes involved in the degradation of plant biomass, and currently she is interesting in RNA splicing in Sugarcane. AAAA
+Beatriz has been a part of the group since 2020. Firstly, she worked with the SARS-CoV-2 genome and carbohydrate-degradation enzymes. More recently, she has been working with sugarcane intron genomics. Currently, her scientific interests lie in comprehanding the impact, evolution and regulation of alternative splicing in various plant species.  
