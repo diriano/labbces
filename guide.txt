@@ -1,3 +1,10 @@
+-Installin HUGO
+
+For this version of the website we need hugo 0.84.4 and go https://github.com/gohugoio/hugo
+Get hugo from :
+Install golang in ubuntu as:
+apt install golang-go
+
 -Adding new people
 
 -Edditing people
