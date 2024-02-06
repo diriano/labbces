@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jorge Mario Muñoz Perez
+title: Jorge Mario Muñoz Pérez
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Lui de Queiroz.
+bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Luiz de Queiroz.
 
 interests:
 - Data analysis 
