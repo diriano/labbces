@@ -6,7 +6,7 @@ title: Felipe Vaz Peres
 superuser: false
 
 # Role/position
-role: Master student - PPG - Ciências CENA/USP - Long ncRNAs in sugarcane
+role: Master student - PPG - Ciências CENA/USP - Análise multi-genotípica de RNAs longos não codificantes em cana-de-açúcar
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am very passionate about the ability to solve biological problems with bioinformatics.
+bio: decoding the data-driven secrets of life.
 
 interests:
 - Bioinformatics algorithms
-- Genome assembly and annotation
-- Transcriptome assembly and pan-transcriptome inference 
+- Genome/Transcriptome assembly and annotation
+- Pan-transcriptome inference 
 - RNA and ncRNA annotation
+- Co-expression networks
 
 education:
   courses:
