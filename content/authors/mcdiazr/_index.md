@@ -1,6 +1,6 @@
 ---
 # Display name
-title: María Camila Díaz Rodriguez
+title: María Camila D R
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
+- CRISPR
 - Sugarcane genomics
 - Transposable Elements
 - Bioinformatics
@@ -42,7 +43,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mariadiazr@"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
