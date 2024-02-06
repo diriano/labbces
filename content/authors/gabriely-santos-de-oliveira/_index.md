@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Gabriely.s@hotmail.com'
+  link: 'mailto:Gabriely.santos@usp.br'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,3 +54,5 @@ user_groups:
 ---
 
 Gabriely will work improving the assembly and annotation of the sugarcane genome variety SP80-3280 using third generation sequencing technologies.
+qualquer coisa
+
