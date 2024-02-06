@@ -6,7 +6,7 @@ title: Beatriz Rodrigues Estevam
 superuser: false
 
 # Role/position
-role: Undergrad student - Biological Sciences (ESALQ/USP) - Sugarcane genomics
+role: Undergrad student - Biological Sciences (ESALQ/USP) - Plant genomics
 
 # Organizations/Affiliations
 organizations:
@@ -61,4 +61,4 @@ user_groups:
 - Undergrad Students
 ---
 
-Beatriz has worked in our group since 2020. First studying the SARS-CoV-2 genome, then doing phylogenetic analysis of enzymes involved in the degradation of plant biomass, and currently she is interesting in RNA splicing in Sugarcane.
+Beatriz has worked in our group since 2020. First studying the SARS-CoV-2 genome, then doing phylogenetic analysis of enzymes involved in the degradation of plant biomass, and currently she is interesting in RNA splicing in Sugarcane. AAAA
