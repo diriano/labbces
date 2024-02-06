@@ -41,7 +41,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gustavocn@usp.br"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -52,4 +52,4 @@ user_groups:
 - Grad Students
 ---
 
-Gustavo is a master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, working on sugarcane pangenomics.
+Gustavo is a master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, that likes longs walks on the beach and also working on sugarcane pangenomics.
