@@ -1,12 +1,12 @@
 ---
 # Display name
-title: María Camila D R
+title: María Camila Díaz Rodriguez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student - PPG - Ciências CENA/USP - Sugarcane Pangenome Graphs
+role: Master student - PPG - Ciências CENA/USP - Sugarcane Transposable Elements
 
 # Organizations/Affiliations
 organizations:
