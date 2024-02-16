@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Gabriely Santos de Oliveira
@@ -26,8 +27,8 @@ education:
   - course: BSc in Biomedicine
     institution: Universidade de Mogi das Cruzes,São Paulo,Brazil
     year: 2022
-- courses: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment, Current
-	institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
+  - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment, Current
+    institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
