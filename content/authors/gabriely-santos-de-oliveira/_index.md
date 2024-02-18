@@ -1,3 +1,4 @@
+
 ---
 # Display name
 title: Gabriely Santos de Oliveira
@@ -11,7 +12,7 @@ role: Master student - PPG Ciências CENA/USP - Sugarcane Genome Assembly
 # Organizations/Affiliations
 organizations:
 - name: University of Sao Paulo 
-  url: ""
+  url: "https://www5.usp.br/"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -24,9 +25,10 @@ interests:
 education:
   courses:
   - course: BSc in Biomedicine
-    institution: Universidade de Mogi das Cruzes, Brazil
+    institution: Universidade de Mogi das Cruzes,São Paulo,Brazil
     year: 2022
-
+  - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment, Current
+    institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,5 +56,3 @@ user_groups:
 ---
 
 Gabriely will work improving the assembly and annotation of the sugarcane genome variety SP80-3280 using third generation sequencing technologies.
-qualquer coisa
-
