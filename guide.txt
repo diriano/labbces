@@ -47,6 +47,10 @@ Add description in content/pictures/index.md
 
 hugo new --kind slides slides/SAGB-30082023/
 
+-Adding a new item to the top menu
+
+Edit the file config/_default/menus.yaml
+
 #Example hugo new --kind slides slides/SAGB-30082023/
 # Doc for example hugo new --kind slides slides/SAGB-30082023/
 #Doc https://wowchemy.com/docs/content/slides/
