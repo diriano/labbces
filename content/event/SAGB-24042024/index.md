@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: Brasil
-summary: BARCODE 100K SPECIMENS: IN A SINGLE NANOPORE RUN
+summary: Artigo Barcode 100K specimens in a single nanopore run
 abstract:
 
 # Talk start and end times.
