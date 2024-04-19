@@ -30,5 +30,5 @@ projects: []
 
 # SIICUSP 31st - 2nd Phase
 
-Every year we have the International Symposion of Scientific Iniciation at USP, where undergrads involved in research project can show their results. There are two phases, in the first phase student compete for a place in the 2nd phase, in which the best projects of each institute will be presented. In this year's edition seven undergrads from CENA were selected to participate in the 2nd phase, one of these was Beatriz R. Estevam from our group. Beatriz presented results about the estability of secondary structures form around alternative splicing sites in humans and plants.
+Every year we have the International Symposium of Scientific Iniciation at USP, where undergrads involved in research projects can show their results. There are two phases, in the first phase students compete for a place in the 2nd phase, in which the best projects of each institute will be presented. In this year's edition seven undergrads from CENA were selected to participate in the 2nd phase, one of these was Beatriz R. Estevam from our group. Beatriz presented results about the estability of secondary structures form around alternative splicing sites in humans and plants.
 ~                                                                              
