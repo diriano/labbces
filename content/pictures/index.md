@@ -15,7 +15,7 @@ header:
 gallery_item:
 - album: bces
   image: BCES_2024_04_BBQ_LabBCES_and_LABIS_April_14_2024.jpg
-  caption: Joint BBQ LABIS and LabBCES Apilt 14th, 2024
+  caption: Joint BBQ LABIS and LabBCES April 14th, 2024
   resize_options: 600x
 - album: bces
   image: BCES_2023_12_Games08122023.jpg
