@@ -14,8 +14,8 @@ header:
 
 gallery_item:
 - album: bces
-  image: BCES_2014_Foro_Internal_Bioinformatics_UniAndes_Diego_Riano_and_Alejandro_Reyes_Apr_10_2014.jpg
-  caption: Foro Internacional de Bioinformatica at UniAndes, together with Alejandro Reyes, April 2014, Bogotá, Colombia.
+  image: BCES_2024_04_BBQ_LabBCES_and_LABIS_April_14_2024.jpg
+  caption: Joint BBQ LABIS and LabBCES Apilt 14th, 2024
   resize_options: 600x
 - album: bces
   image: BCES_2023_12_Games08122023.jpg
@@ -76,6 +76,10 @@ gallery_item:
 - album: bces
   image: BCES_2015_BBQ.jpg
   caption: LabBCES and friends BBQ in 2015.
+  resize_options: 600x
+- album: bces
+  image: BCES_2014_Foro_Internal_Bioinformatics_UniAndes_Diego_Riano_and_Alejandro_Reyes_Apr_10_2014.jpg
+  caption: Foro Internacional de Bioinformatica at UniAndes, together with Alejandro Reyes, April 2014, Bogotá, Colombia.
   resize_options: 600x
 - album: bces
   image: BCES_2012_Defenses.jpg
