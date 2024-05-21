@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-# Computational Infraestructure
+## Computational Infraestructure
 
 Our primary scientific instrument is a small bioinformatics cluster, acquired through resources from CAPES, FINEP, and FAPESP. The cluster currently includes the following components:
 
@@ -69,8 +69,8 @@ The following is a photo of out bioinformatics cluster:
 
 ![Bioinfo Cluster](LabBCES_BioinfoCluster.jpg)
 
-# Dry Lab
+## Dry Lab
 
-We have a dry lab equipped with workstations featuring small desktop computers (32 GB RAM, 250 GB SSD). We hold regular group meetings every week, with part of the team joining online through a 50-inch TV.
+We have a dry lab equipped with workstations featuring small desktop computers (Intel Core i3/i5, 16GB - 32 GB RAM, 250 GB SSD e 1TB HD). We hold regular group meetings every week, with part of the team joining online through a 50-inch TV.
 
 ![Bioinfo Dry Lab](LabBCES_DryLab.jpg)
