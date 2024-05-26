@@ -49,7 +49,7 @@ Our bioinformatics cluster is available to all researchers at CENA/USP. The cond
 
 External users may be granted access to this infrastructure on a case-by-case basis. If interested please get in [contact](/contact/).
 
-For those interested in using this infraestructure, we recomend getting familiar with basic linux, usin gthe following materials:
+For those interested in using this infraestructure, we recomend getting familiar with basic linux, using the following materials:
 
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - Part 1 and 2 of  [Unix And Shell Primer for Biologist](http://korflab.ucdavis.edu/Unix_and_Perl/current.html)
@@ -59,6 +59,7 @@ We also have prepared a tutorial for the use of SGE in our cluster:
 
 - {{% staticref "uploads/BioinfoClusterCENAUSP.pdf" %}}Bioinformatics Cluster @ CENA/USP{{% /staticref %}}
 
+Once you have been granted access to the cluster and have completed the training, you can submit your jobs using the SGE commands. You jobs will be automatically scheduled and executed by the cluster. [Here](qstatCluster.html) you can see the current load of the cluster.
 
 Additionally, we have an application server with the following components:
 
