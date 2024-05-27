@@ -30,7 +30,7 @@ projects: []
 
 ## Computational Infraestructure
 
-Our primary scientific instrument is a small bioinformatics cluster, acquired through resources from CAPES, FINEP, and FAPESP. The cluster currently includes the following components:
+Our primary scientific instrument is a small bioinformatics cluster, acquired through resources from CAPES, FINEP, and FAPESP under the management of Professors [Marli de Fatima Fiore](http://www.cena.usp.br/marli-fatima-fiore), [Flavia Vischi Winck](http://www.cena.usp.br/flavia-vischi-winck), [Antonio Vargas de Oliveira Figueira](http://www.cena.usp.br/antonio-vargas-oliveira-figueira) and Diego M. Riaño-Pachón. The cluster currently includes the following components:
 
 - Lenovo ThinkSystem DS2200 storage with 72TB capacity
 - Dell with (2) Intel® Xeon® Silver 4310 processors - 48 threads, (8) 64GB RAM modules, (2) 960GB SSDs, and (6) 2TB HDDs
@@ -55,18 +55,18 @@ For those interested in using this infraestructure, we recomend getting familiar
 - Part 1 and 2 of  [Unix And Shell Primer for Biologist](http://korflab.ucdavis.edu/Unix_and_Perl/current.html)
 - [Command-line Bootcamp](http://korflab.ucdavis.edu/bootcamp.html)
 
-We also have prepared a tutorial for the use of SGE in our cluster:
+We also have prepared a document describing the general use of the cluster and the use of SGE:
 
 - {{% staticref "uploads/BioinfoClusterCENAUSP.pdf" %}}Bioinformatics Cluster @ CENA/USP{{% /staticref %}}
 
-Once you have been granted access to the cluster and have completed the training, you can submit your jobs using the SGE commands. You jobs will be automatically scheduled and executed by the cluster. [Here](qstatCluster.html) you can see the current load of the cluster.
+Briefly, once you have been granted access to the cluster and have completed the training, you can submit your jobs using the SGE commands. You do this online, i.e., directly in the frontend of the cluster. For this you should created a bash script describing your hardware requirements (i.e., requesting resources) and the job you need to run. The sintax for this bash script is described in the document above. Then you submit your script to the SGE system, that will decide, based on available resources, when you job can be executed. [Here](qstatCluster.html) you can see the current load of the cluster.
 
 Additionally, we have an application server with the following components:
 
 - Dell with (2) Intel® Xeon® Silver 4316 processors - 80 threads, (2) 32GB RAM modules, and (5) 2TB HDDs
 Dell EMC ME5012 storage with 56TB capacity
 
-The following is a photo of out bioinformatics cluster:
+The following is a photo of out bioinformatics infraestructure:
 
 ![Bioinfo Cluster](LabBCES_BioinfoCluster.jpg)
 
