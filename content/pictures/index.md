@@ -1,5 +1,5 @@
 ---
-title: Picures of the LabBCES through the years
+title: Pictures of the LabBCES through the years
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
