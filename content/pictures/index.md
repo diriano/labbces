@@ -14,6 +14,22 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2024_06_Xmeeting2024_GCN.jpg
+  caption: Gustavo Carvalho do Nascimento at the XMeeting 2024 in Salvador, BA
+  resize_options: 600x
+- album: bces
+  image: BCES_2024_06_Xmeeting2024_MCDR.jpg
+  caption: Maria Camila Diaz at the XMeeting 2024 in Salvador, BA
+  resize_options: 600x
+- album: bces
+  image: BCES_2024_06_Xmeeting2024_BRE.jpg
+  caption: Beatriz Rodrigues Estevam at the XMeeting 2024 in Salvador, BA
+  resize_options: 600x
+- album: bces
+  image: BCES_2024_06_Xmeeting2024_LabBCES.jpg
+  caption: LabBCES at the XMeeting 2024 in Salvador, BA
+  resize_options: 600x
+- album: bces
   image: BCES_2024_04_BBQ_LabBCES_and_LABIS_April_14_2024.jpg
   caption: Joint BBQ LABIS and LabBCES April 14th, 2024
   resize_options: 600x
