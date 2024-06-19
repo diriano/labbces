@@ -14,6 +14,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2024_06_Xmeeting2024_LabBCES2.jpg
+  caption: LabBCES at the beach, XMeeting 2024 in Salvador, BA
+  resize_options: 600x
+- album: bces
   image: BCES_2024_06_Xmeeting2024_GCN.jpg
   caption: Gustavo Carvalho do Nascimento at the XMeeting 2024 in Salvador, BA
   resize_options: 600x
