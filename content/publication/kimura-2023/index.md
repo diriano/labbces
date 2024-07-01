@@ -10,7 +10,7 @@ authors:
 - Ismael Nobre
 - Carlos A. Nobre
 - Bruno A. S. de Medeiros
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 - Felipe K. Shiraishi
 - Tereza C. M. B. Carvalho
 - Marcos A. Simplicio

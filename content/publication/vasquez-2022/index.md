@@ -9,7 +9,7 @@ authors:
 - Andrés Felipe Vásquez
 - Luis Alberto Gómez
 - Andrés González Barrios
-- Diego M. Riaño-Pachón
+- Diego Mauricio Riaño-Pachón
 tags:
 - Humans; Folic Acid Antagonists
 - pharmacology
