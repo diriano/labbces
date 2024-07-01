@@ -20,6 +20,7 @@ If previous publication had been updated tne overwrite the import with the flag 
 
 academic import --overwrite --bibtex biblioDMRP.bib
 
+#new versios of the academic tool have conflick with hugo 0.84.4. If after adding a new publication the hugo compilation fails with an error regarding article-journal not bein an integer, just change the tak article-journal to number 2 in the index.md of the new publication
 -Adding news
 
 in the root folder of the site run:
