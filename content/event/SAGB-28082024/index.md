@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: Brasil
-summary: Artigo The reuse of public datasets in the life sciences: potential risks and rewards
+summary: Artigo The reuse of public datasets in the life sciences - potential risks and rewards
 abstract:
 
 # Talk start and end times.
