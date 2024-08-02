@@ -21,7 +21,7 @@ date_end: 2024-08-28T11:00:00-03:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-08-02T11:54:25-03:00
+publishDate: 2024-08-02T11:20:25-03:00
 
 authors: []
 tags: []
