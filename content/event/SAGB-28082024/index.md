@@ -68,7 +68,7 @@ projects: [SAGB]
 ---
 
 ![The reuse of public datasets in the life sciences: potential risks and rewards](paper.png "The reuse of public datasets in the life sciences: potential risks and rewards")
-No nosso segundo ano do [SAGB](https://labbces.netlify.app/project/sagb/), o terceiro encontro em 2024, se realizará no dia 28 de agosto de 2023 as 10h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos o artigo ["The reuse of public datasets in the life sciences: potential risks and rewards"](https://peerj.com/articles/9954/).
+No nosso segundo ano do [SAGB](https://labbces.netlify.app/project/sagb/), o terceiro encontro em 2024, se realizará no dia 28 de agosto de 2023 as 10h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos o artigo ["The reuse of public datasets in the life sciences: potential risks and rewards"](https://peerj.com/articles/9954/), {{% staticref "uploads/SAGB-28082024.pdf" %}}slides{{% /staticref %}}.
 
 Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
 
