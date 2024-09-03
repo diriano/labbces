@@ -14,6 +14,14 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2024_08_Genetica2024_BRE1.jpg
+  caption: Beatriz R. Estevam, Genetica 2024 in Campos de Jordão, SP
+  resize_options: 600x
+- album: bces
+  image: BCES_2024_08_Genetica2024_BRE2.jpg
+  caption: Beatriz R. Estevam, Genetica 2024 in Campos de Jordão, SP
+  resize_options: 600x
+- album: bces
   image: BCES_2024_06_Xmeeting2024_LabBCES2.jpg
   caption: LabBCES at the beach, XMeeting 2024 in Salvador, BA
   resize_options: 600x
