@@ -31,7 +31,7 @@ projects: []
 
 Three of our students participated in the XMeeting, 2024 that took place in Salvador, BA, last week.
 
-- [Beatriz R. Estevam](/author/beatriz-rodrigues-estevam) presented here work titled {{% staticref "uploads/Poster_X-meeting_2024_BRE.pdf" %}}"The importance of Splice Site Secondary Structure Stability: A Comparative Analysis of Alternative Splicing Regulation in Humans and Plants"{{% /staticref %}}, part of her research as undergrad student in the group.
+- [Beatriz R. Estevam](/author/beatriz-rodrigues-estevam) presented her work titled {{% staticref "uploads/Poster_X-meeting_2024_BRE.pdf" %}}"The importance of Splice Site Secondary Structure Stability: A Comparative Analysis of Alternative Splicing Regulation in Humans and Plants"{{% /staticref %}}, part of her research as undergrad student in the group.
 
 - [Gustavo C. do Nascimento](/author/gustavo-carvalho-do-nascimento/), presented his first results {{% staticref "uploads/Poster_X-meeting_2024_GCN.pdf" %}}integrating several sugarcane genome assemblies in a pan-genome graph{{% /staticref %}}, part of his research as Master student in PPG/Ciências at CENA/USP.
 
