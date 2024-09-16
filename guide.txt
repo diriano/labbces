@@ -1,16 +1,53 @@
--Installin HUGO
+- Sequenceserver - BLAST
+
+Sequenceserver has it own user in the server
+
+The configuration file is located in /home/sequenceserver/.sequenceserver.conf
+
+In order to know where sequenceserver is installed, logged as the proper user run:
+
+echo "$(ruby -e 'puts Gem.path[0]')/gems/sequenceserver-2.1.0"
+
+To the databases available:
+
+sequenceserver --list_databases
+
+There is a systemd autostart script in /etc/systemd/system/sequenceserver.service 
+The content of the script is the following:
+
+```
+[Unit]
+Description=SequenceServer server daemon
+Documentation="file://sequenceserver --help" "http://sequenceserver.com/doc"
+After=network.target
+
+[Service]
+Type=simple
+User=sequenceserver
+ExecStart=/usr/local/ruby-3.2.2/bin//sequenceserver -c /home/sequenceserver/.sequenceserver.conf
+KillMode=process
+Restart=on-failure
+RestartSec=42s
+RestartPreventExitStatus=255
+
+[Install]
+WantedBy=multi-user.target
+```
+
+- Website LabBCES
+-- Installing HUGO
 
 For this version of the website we need hugo 0.84.4 and go https://github.com/gohugoio/hugo
 Get hugo from :
 Install golang in ubuntu as:
 apt install golang-go
 
--Adding new people
+-- Adding new people
 
--Edditing people
+--- Edditing people
 People info are under content/authors, for each person there is a folder in that path. Edit the _index.md file and the avatar.jpg|png to have a pic.
 
--Adding publications
+-- Adding publications
 Add publication into the bib file (using JabRef): biblioDMRP.bib
 And then run:
 
@@ -21,7 +58,8 @@ If previous publication had been updated tne overwrite the import with the flag 
 academic import --overwrite --bibtex biblioDMRP.bib
 
 #new versios of the academic tool have conflick with hugo 0.84.4. If after adding a new publication the hugo compilation fails with an error regarding article-journal not bein an integer, just change the tak article-journal to number 2 in the index.md of the new publication
--Adding news
+
+-- Adding news
 
 in the root folder of the site run:
 
@@ -29,26 +67,26 @@ hugo new --kind post post/25-11-2021-BSB2021
 
 then edit the index.md file
 
--Adding projects
+-- Adding projects
 
 hugo new  --kind project project/my-project-name
 #https://wowchemy.com/docs/content/projects/
 
-- Adding events
+-- Adding events
 hugo new  --kind event event/SAGB-26042023
 #For instance our seminario de afinidades
 
-- Add a picture to the film roll
+-- Add a picture to the film roll
 
 Add the jpeg file to content/pictures/bces/
 Add description in content/pictures/index.md
 
 
--Adding slides
+-- Adding slides
 
 hugo new --kind slides slides/SAGB-30082023/
 
--Adding a new item to the top menu
+-- Adding a new item to the top menu
 
 Edit the file config/_default/menus.yaml
 
@@ -56,6 +94,7 @@ Edit the file config/_default/menus.yaml
 # Doc for example hugo new --kind slides slides/SAGB-30082023/
 #Doc https://wowchemy.com/docs/content/slides/
 
+-- Deploy website
 
 #In order to deploy the website in opur server labbces.cena.usp.br, we need to use hugo version 0.84.4, the latest version do not work with the templates from wowchemy
 hugo --gc --minify -b http://labbces.cena.usp.br/
@@ -63,5 +102,4 @@ hugo --gc --minify -b http://labbces.cena.usp.br/
 
 hugo --gc --minify -b http://labbces.cena.usp.br/
 rsync -avz -e 'ssh -p 2222' public/ labbces@labbces.cena.usp.br:~/www/
-
 
