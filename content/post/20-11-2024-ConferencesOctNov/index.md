@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "20 11 2024 ConferencesOctNov"
+title: "October and November busy months attending conferences in Brazil and abroad"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,3 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+There were several participation of the group members in different conferences in October and November 2024. Here are some of the highlights:
+
+The IC students participated at the SIICUSP 32nd edition at the Luiz de Queiroz campus of the Universidade de São Paulo. They also, together with several of the master students in the group, had the opportunity to participate of the Simposio de Posgraduandos at CENA/USP, where they presented their research results.
+
+Our IC student [Isabella Gallego Rendón](/author/isabella-gallego-rendon/) presented her research results in Japan at the [1st Asia & Pacific Bioinformatics Joint Conference](https://apbjc.asia/) and in Colombia at the [ISCB-Latin America SoIBio CCBCOL Conference on Bioinformatics](https://www.iscb.org/latam2024/home) about the study of the Moniliophthora roreri pangenome.
