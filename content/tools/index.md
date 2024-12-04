@@ -36,6 +36,8 @@ We have a public blast server that provides access to some of the datasets gener
 
 We took the 20 year-old data generated as part of the SUCEST project, and made a new minning application of gene expression values per library, available [here](https://bces.shinyapps.io/ESTs_App/), the EST libraries shown there are described in this [paper](https://pubmed.ncbi.nlm.nih.gov/14613979/). We created this app, because this dataset is the only one available that includes callus.
 
+We also created a [new app](https://bces.shinyapps.io/B2quant_App/), with expression values of genes annoted in our new genome assembly of cultivar SP80-3280. This will be available for the time being until we have the final version of the assembly and annotation adn move everything into Conekt Grasses.
+
 # CoCoView
 
 Are you interested in visualizing codon conservation from multiple sequences alignments. The traditional implementation of SequenceLogos cannot do that, this is why we developed CoCoView, check our [tool](https://github.com/labbces/CoCoView) and its companion [paper](https://pubmed.ncbi.nlm.nih.gov/35990812/).

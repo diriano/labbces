@@ -25,6 +25,12 @@ main:
   - name: Tools
     url: tools
     weight: 80
+  - name: Teaching
+    url: teaching
+    weight: 81
+  - name: Infraestructure
+    url: infra
+    weight: 82
   - name: Contact
     url: contact
     weight: 90

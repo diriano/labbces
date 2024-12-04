@@ -14,10 +14,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computaional biologis/bioinformatician at the University of São Paulo, Campus Luiz de Queiroz.
+bio: I am PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo. I am interested in the intersection of Plant Biology, Programing and Mathemathics. I have worked in Plant Biotechnology, Population Genomics, Machine Learning applied to the discovery of anti-microbial peptides. Currenlty i turned into Sugarcane omics, focusing on genomic resources and gene Co-expression network analysis.
 
 interests:
-- Data analysis 
+- Omics data analysis 
 - Data visualization
 - Biological networks
 - Plant biotechnology
@@ -27,7 +27,7 @@ education:
   - course: MSc in Biotechology
     institution: Universidad Nacional de Colombia, Medellín, Colombia
     year: 2019
-  - course: Biological Engineering
+  - course: Bioprocess Engineering
     institution: Universidad Nacional de Colombia, Medellín, Colombia
     year: 2012
 
@@ -66,4 +66,4 @@ user_groups:
 - Grad Students
 ---
 
-Jorge is a PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo
+I am PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo. I am interested in the intersection of Plant Biology, Programing and Mathemathics. I have worked in Plant Biotechnology, Population Genomics, Machine Learning applied to the discovery of anti-microbial peptides. Currenlty i turned into Sugarcane omics, focusing on genomic resources and gene Co-expression network analysis.
