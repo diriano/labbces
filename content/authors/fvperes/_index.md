@@ -6,7 +6,8 @@ title: Felipe Vaz Peres
 superuser: false
 
 # Role/position
-role: Master student - PPG - Ciências CENA/USP - Análise multi-genotípica de RNAs longos não codificantes em cana-de-açúcar
+role: Master student - PPG - Ciências CENA/USP - Análise multi-genótipo de RNAs longos não codificantes em cana-de-açúcar
+
 
 # Organizations/Affiliations
 organizations:
