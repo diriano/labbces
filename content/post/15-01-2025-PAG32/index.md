@@ -34,7 +34,7 @@ projects: []
 
 Here is a list of research projects involving our lab members and collaborators that were presented at this year's PAG conference.
 
-- [Renato A. C. dos Santos](/author/renato-augusto-correa-dos-santos/) presented his wotk titled "CoNekT Grasses Microbiome enables the network analysis for microbial co-occurrence and integration of host RNAseq mand microbiome data", part of a research internship he carried out in the lab of Prof. Wallace at the University of Georgia.
+- [Renato A. C. dos Santos](/author/renato-augusto-correa-dos-santos/) presented his wotk titled ["CoNekT Grasses Microbiome enables the network analysis for microbial co-occurrence and integration of host RNAseq and microbiome data"](https://pag.confex.com/pag/32/poster/papers/viewonly.cgi?password=978543&username=56833), part of a research internship he carried out in the lab of Prof. Wallace at the University of Georgia.
 
 - Isabel R. Gerhardt, collaborator from the Genomics for Climate Change Research Center, presented the work titled ["The Odd One out: Genomic Clues from an Evergreen Species within the Angiosperm Family with the Largest Number of Desiccation-Tolerant Species"](https://pag.confex.com/pag/32/late/papers/viewonly.cgi?password=163480&username=59735)
 
