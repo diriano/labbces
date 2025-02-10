@@ -6,11 +6,11 @@ title: Isabella Gallego Rendón
 superuser: false
 
 # Role/position
-role: Undergrad student - Biology (USP) - LLMs
+role: Master student - PPG - Ciências CENA/USP - Pangenome analyses of _Moniliophthora roreri_
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sâo Paulo, ESALQ, e EAFIT
+- name: Centro de Energia Nuclear na Agricultura, University of Sâo Paulo, 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,7 +49,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Grad Students
 ---
 
-Isabella is working with Large Language Models applied to Named Entity Recognition and Relation Extraction with biologica datasets.
+Isabella joined our lab as an undergrad working with Large Language Models applied to Named Entity Recognition and Relation Extraction with biologica datasets.
+
+Now she is pursuing her master in sciences, estudying genomics variation in the fungus Moniliophthora roreri, causing agent of frosty pod rot in cacao.
