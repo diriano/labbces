@@ -54,6 +54,6 @@ Within our research group, Beatriz has been actively engaged in computational bi
 
 Beatriz is an undergraduate student in [Biological Sciences at ESALQ/USP](https://www.esalq.usp.br/graduacao/cursos/ciencias-biologicas) and joined our Laboratory of Computational, Evolutionary, and Systems Biology at CENA/USP during her second semester of studies—despite having no prior experience in programming or bioinformatics. However, she quickly developed a strong interest in computational analysis of biological data. Her first scientific research project resulted in the publication of a research article describing [CoCoView](https://www.sciencedirect.com/science/article/pii/S2215016122001832), a computational tool developed in Python that applies information theory to study the evolution of protein-coding sequences at the codon level.
 
-As part of her ongoing academic journey, Beatriz completed a research internship in 2023 at the ]Max Planck Institute of Molecular Plant Physiology (MPIMP) in Potsdam, Germany](https://www.mpimp-golm.mpg.de/).
+As part of her ongoing academic journey, Beatriz completed a research internship in 2023 at the [Max Planck Institute of Molecular Plant Physiology (MPIMP) in Potsdam, Germany](https://www.mpimp-golm.mpg.de/).
 
 Winning the Sanger Prize is an outstanding achievement that reflects Beatriz’s dedication, hard work, and talent in computational biology. We are incredibly proud of her success and look forward to her future contributions to the field!
