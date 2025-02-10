@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-# Beatriz Estevam selected for the SAnger Prize, UK
+# Beatriz Estevam selected for the Sanger Prize, UK
 
 We are delighted to announce that [Beatriz Rodrigues Estevam](/author/beatriz-rodrigues-estevam/), an undergraduate student from our research group, has been awarded the [Sanger Prize](https://www.sanger.ac.uk/about/study/the-sanger-prize/), a highly competitive distinction that provides students from low- to upper-middle-income countries with a three-month research internship at the Wellcome Trust Sanger Institute in Cambridge, UK. Beatriz, who has been part of our team since 2020, will undertake her research at the Sanger Institute in the second semester of 2025.
 
@@ -49,7 +49,8 @@ The Sanger Prize selection process consisted of two stages. First, the candidate
 Within our research group, Beatriz has been actively engaged in computational biology, contributing to several significant projects:
 
 - Evolutionary studies of SARS-CoV-2 during the COVID-19 pandemic (Fellowship PUB/USP).
-- Evolutionary analyses of CAZymes in microorganisms (Fellowship PUB/USP).
+- [Evolutionary analyses of CAZymes in microorganisms](/project/cazymes_xylan-mannan/) (Fellowship PUB/USP).
+- [Impact of secondary structure on splicing](/project/rna_structure_stability_impact_on_splicing/) (Fellowship BEPE FAPESP).
 - Current research on sugarcane introns (funded by FAPESP and RCG2I), aiming to optimize the CRISPR-Cas system for improved genetic editing in this crop.
 
 Beatriz is an undergraduate student in [Biological Sciences at ESALQ/USP](https://www.esalq.usp.br/graduacao/cursos/ciencias-biologicas) and joined our Laboratory of Computational, Evolutionary, and Systems Biology at CENA/USP during her second semester of studies—despite having no prior experience in programming or bioinformatics. However, she quickly developed a strong interest in computational analysis of biological data. Her first scientific research project resulted in the publication of a research article describing [CoCoView](https://www.sciencedirect.com/science/article/pii/S2215016122001832), a computational tool developed in Python that applies information theory to study the evolution of protein-coding sequences at the codon level.
