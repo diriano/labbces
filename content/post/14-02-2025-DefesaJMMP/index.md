@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Master Defense: Felipe Vaz Peres (01/2025)"
+title: "PhD Defense: Jorge Mario Muñoz Perez (02/2025)"
 subtitle: ""
 summary: ""
 authors: []
