@@ -27,9 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-# February 2025i - Defense Master Project Mr. Felipe Vaz Peres
+# January 2025 - Defense Master Project Mr. Felipe Vaz Peres
 
 ![Defesa Felipe - 21-01-2025](BCES_2025_01_DefesaMestrado_FVP.jpeg "Defesa Felipe - 21-01-2025")
 
 
-Mr. Felipe successfully defended his master’s project, entitled “Análise multi-genótipo de RNAs longos nnão codificantes em cana-de-açúcar”, on February 21st, 2025. The members of his assessment committee were Prof. Douglas Silva Domingues (ESALQ/USP) and Prof. Aristóteles Góes Neto (UFMG).
+Mr. Felipe successfully defended his master’s project, entitled “Análise multi-genótipo de RNAs longos nnão codificantes em cana-de-açúcar”, on January 21st, 2025. The members of his assessment committee were Prof. Douglas Silva Domingues (ESALQ/USP) and Prof. Aristóteles Góes Neto (UFMG).
