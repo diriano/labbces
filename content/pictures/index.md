@@ -14,6 +14,50 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2025_04_QualifyingExame_AMC_01.jpeg
+  caption: Master Qualifying Exam of Andreza Matosso da Cunha, April 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_04_QualifyingExame_AMC_02.jpeg
+  caption: Master Qualifying Exam of Andreza Matosso da Cunha, April 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_01.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_02.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_03.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_04.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_05.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_02_DefesaDoutorado_JMMP_06.jpeg
+  caption: PhD thesis defense of Jorge Mario Muñoz Pérez, February 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_01_DefesaMestrado_FVP-2.jpeg 
+  caption: Master defense of Felipe Vaz Peres, January 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_01_DefesaMestrado_FVP.jpeg
+  caption: Master defense of Felipe Vaz Peres, January 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2024_11_EQ_MCDR_GCN.jpeg
+  caption: Master Qualifying Exam celebration Gustavo C. do Nascimento e Maria C. Diaz, November 2024.
+  resize_options: 600x
+- album: bces
   image: BCES_2024_08_Genetica2024_BRE1.jpg
   caption: Beatriz R. Estevam, Genetica 2024 in Campos de Jordão, SP
   resize_options: 600x
