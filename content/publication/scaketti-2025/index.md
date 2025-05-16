@@ -99,4 +99,3 @@ links:
   url: https://www.biorxiv.org/content/early/2025/05/15/2025.05.12.653347
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
