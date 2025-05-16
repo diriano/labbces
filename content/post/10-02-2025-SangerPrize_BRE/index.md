@@ -58,3 +58,5 @@ Beatriz is an undergraduate student in [Biological Sciences at ESALQ/USP](https:
 As part of her ongoing academic journey, Beatriz completed a research internship in 2023 at the [Max Planck Institute of Molecular Plant Physiology (MPIMP) in Potsdam, Germany](https://www.mpimp-golm.mpg.de/).
 
 Winning the Sanger Prize is an outstanding achievement that reflects Beatriz’s dedication, hard work, and talent in computational biology. We are incredibly proud of her success and look forward to her future contributions to the field!
+
+Media appearances: [Agencia FAPESP](https://agencia.fapesp.br/graduanda-da-usp-vence-competicao-internacional-na-area-de-genomica/54708), [Journal USP](https://jornal.usp.br/universidade/estudante-da-usp-vence-competicao-internacional-na-area-de-genomica/).
