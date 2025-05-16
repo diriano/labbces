@@ -59,4 +59,4 @@ As part of her ongoing academic journey, Beatriz completed a research internship
 
 Winning the Sanger Prize is an outstanding achievement that reflects Beatriz’s dedication, hard work, and talent in computational biology. We are incredibly proud of her success and look forward to her future contributions to the field!
 
-Media appearances: [Agencia FAPESP](https://agencia.fapesp.br/graduanda-da-usp-vence-competicao-internacional-na-area-de-genomica/54708), [Journal USP](https://jornal.usp.br/universidade/estudante-da-usp-vence-competicao-internacional-na-area-de-genomica/).
+Media appearances: [Agencia FAPESP](https://agencia.fapesp.br/graduanda-da-usp-vence-competicao-internacional-na-area-de-genomica/54708), [Journal USP](https://jornal.usp.br/universidade/estudante-da-usp-vence-competicao-internacional-na-area-de-genomica/), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7329136027900575745/).
