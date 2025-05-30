@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angie Valeriooa Quinones Olaya
+title: Angie Valeria Quinones Olaya
 
 # Is this the primary user of the site?
 superuser: false
