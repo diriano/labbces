@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 I got a PhD degree from PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo. I am interested in the intersection of Plant Biology, Programing and Mathemathics. I have worked in Plant Biotechnology, Population Genomics, Machine Learning applied to the discovery of anti-microbial peptides. Currenlty i turned into Sugarcane omics, focusing on genomic resources and gene Co-expression network analysis.
