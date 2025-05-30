@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo. I am interested in the intersection of Plant Biology, Programing and Mathemathics. I have worked in Plant Biotechnology, Population Genomics, Machine Learning applied to the discovery of anti-microbial peptides. Currenlty i turned into Sugarcane omics, focusing on genomic resources and gene Co-expression network analysis.
+bio: I was PhD student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, untile Feb 2025. I am interested in the intersection of Plant Biology, Programing and Mathemathics. I have worked in Plant Biotechnology, Population Genomics, Machine Learning applied to the discovery of anti-microbial peptides. Currenlty i turned into Sugarcane omics, focusing on genomic resources and gene Co-expression network analysis.
 
 interests:
 - Omics data analysis 
@@ -24,6 +24,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Sciences
+    institution: Centro de Energia Nuclear na Agricultura, Universidade de São Paulo, Piracicaba, São Paulo, Brazil
+    year: 2025
   - course: MSc in Biotechology
     institution: Universidad Nacional de Colombia, Medellín, Colombia
     year: 2019
