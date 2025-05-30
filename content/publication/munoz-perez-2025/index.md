@@ -11,7 +11,7 @@ authors:
 - Denis Bassi
 - Lucia Mattiello
 - Marcelo Menossi
-- Diego M Riano-Pachon
+- Diego Mauricio Riaño-Pachón
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
