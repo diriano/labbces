@@ -10,9 +10,42 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
-
-
-gallery_item:
+- album: bces
+  image: BCES_2025_06_IGR_PresentingPoster_Xmeeting2025.jpeg
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_GCN_PresentingPoster_Xmeeting2025.jpeg
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_GSO_PresentingPoster_Xmeeting2025.jpeg
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_Posters_Xmeeting2025_004.jpg 
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_Posters_Xmeeting2025_003.jpg 
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_Posters_Xmeeting2025_002.jpg 
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_06_Posters_Xmeeting2025_001.jpg 
+  caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_05_EMBO_TEsCourse_AMC_03.jpeg
+  caption: Andreza at the EMBO course on Transposable Elements in the Era of Data Science in Didcot, UK, May 2025.
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_05_ConfraMaio_01.jpeg
+  caption: iRelaxing at Andreza's, May 2025.
+  resize_options: 600x
 - album: bces
   image: BCES_2025_04_QualifyingExame_AMC_01.jpeg
   caption: Master Qualifying Exam of Andreza Matosso da Cunha, April 2025.
