@@ -33,6 +33,16 @@ Three of our students are participating in the XMeeting, 2025 that takes place i
 
 - [Gustavo C. do Nascimento](/author/gustavo-carvalho-do-nascimento/), presented his results {{% staticref "uploads/Poster_X-meeting_2025_GCN.pdf" %}}A Pan-genome of the Saccharum complex{{% /staticref %}}, part of his research as Master student in PPG/Ciências at CENA/USP.
 
+![Gustavo C. do Nascimento Presenting his poster at Xmeeting 2025](BCES_2025_06_GCN_PresentingPoster_Xmeeting2025.jpeg)
+
 - [Gabriely Santos de Oliveira](/author/gabriely-santos-de-oliveira/), presented her results {{% staticref "uploads/Poster_X-meeting_2025_GSO.pdf" %}}Chromosome-scale assembly of the polyploid genome of sugarcane SP80-3280{{% /staticref %}}, part of his research as Master student in PPG/Ciências at CENA/USP.
 
+![Gabriely Santos de Oliveira Presenting his poster at Xmeeting 2025](BCES_2025_06_GSO_PresentingPoster_Xmeeting2025.jpeg)
+
 - [Isabella Gallego Rendón](/author/isabella-gallego-rendon/), presented her first results {{% staticref "uploads/Poster_X-meeting_2025_IGR.pdf" %}}Construction and Analysis of the Moniliophthora roreri Pangenome{{% /staticref %}}, part of his research as Master student in PPG/Ciências at CENA/USP.
+
+![Isabella Gallego Rendón Presenting his poster at Xmeeting 2025](BCES_2025_06_IGR_PresentingPoster_Xmeeting2025.jpeg)
+
+Also, Isabella Gallego Rendón, together with former members of LabBCES: Jorge Mario Muñoz-Perez and Felipe Vaz Peres, participated in the final of the [Liga Brasileira de Bioinformática](https://lbb.rsg-brazil.com/), with their project: "Biointerface Cérebro-Planta: Integracão de EEG humano com resposta gênica fotoinduzida".
+
+![Isabella Gallego Rendón LBB finals](BCES_2025_06_LBB_Xmeeting2025.jpeg)
