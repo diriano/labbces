@@ -10,6 +10,8 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
+gallery_item:
 - album: bces
   image: BCES_2025_06_IGR_PresentingPoster_Xmeeting2025.jpeg
   caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
