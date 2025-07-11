@@ -35,6 +35,8 @@ Our primary scientific instrument is a small bioinformatics cluster, acquired th
 - Lenovo ThinkSystem DS2200 storage with 72TB capacity
 - Dell with (2) Intel® Xeon® Silver 4310 processors - 48 threads, (8) 64GB RAM modules, (2) 960GB SSDs, and (6) 2TB HDDs
 - Dell with (2) Intel® Xeon® CPU E5-2660 processors - 56 threads, 512GB RAM, and (2) 100GB HDDs
+- Dell with (2) Intel® Xeon® CPU Silver 4316 processors - 80 threads, 502GB RAM, and 800GB HDD
+- Dell with (2) Intel® Xeon® CPU Silver 4316 processors - 80 threads, 502GB RAM, and 800GB HDD
 
 Unfortunately, one of the components failed last year (2023) due to electrical outages:
 
