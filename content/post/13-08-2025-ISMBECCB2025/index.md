@@ -4,7 +4,7 @@
 title: "LabBCES participated in ISMB/ECCB 2025, Liverpool/UK"
 subtitle: ""
 summary: ""
-authors: []
+authors: [diego-mauricio-riano-pachon,igallegor]
 tags: []
 categories: []
 date: 2025-08-12T13:14:22-03:00
@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [moniliase_pangenome]
 ---
 # ISMB/ECCB 2025
 
