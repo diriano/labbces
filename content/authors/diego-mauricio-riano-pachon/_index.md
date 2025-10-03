@@ -49,6 +49,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=6rghd24AAAAJ
+- icon: cv
+  icon_pack: ai
+  link: http://lattes.cnpq.br/2580825196325707&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/diriano
