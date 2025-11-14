@@ -13,6 +13,10 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2025_11_QualifyingExam_MB_01.jpg
+  caption: Master's Qualifying Exam Murilo Basso on November 2025. Committee members: Prof. Kassio Mendes, Prof. Fernando Consoli and Prof. Luiz Eduardo Del Bem .
+  resize_options: 600x
+- album: bces
   image: BCES_2025_06_IGR_PresentingPoster_Xmeeting2025.jpeg
   caption: LabBCES members at Xmeeting 2025 in João Pessoa, PB, June 2025.
   resize_options: 600x
