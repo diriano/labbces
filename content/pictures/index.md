@@ -13,6 +13,14 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2025_11_SangerPrize2025-001.jpg
+  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025."
+  resize_options: 600x
+- album: bces
+  image: BCES_2025_11_SangerPrize2025-002.jpg
+  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025."
+  resize_options: 600x
+- album: bces
   image: BCES_2025_11_QualifyingExam_MB_01.jpg
   caption: "Master's Qualifying Exam Murilo Basso on November 2025. Committee members: Prof. Kassio Mendes, Prof. Fernando Consoli and Prof. Luiz Eduardo Del Bem."
   resize_options: 600x
