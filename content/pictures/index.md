@@ -14,11 +14,11 @@ header:
 gallery_item:
 - album: bces
   image: BCES_2025_11_SangerPrize2025-001.jpg
-  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025."
+  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025. Picture by Carmen Denman Hume, Communications Officer at the Wellcome Sanger Institute."
   resize_options: 600x
 - album: bces
   image: BCES_2025_11_SangerPrize2025-002.jpg
-  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025."
+  caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025. Picture by Carmen Denman Hume, Communications Officer at the Wellcome Sanger Institute."
   resize_options: 600x
 - album: bces
   image: BCES_2025_11_QualifyingExam_MB_01.jpg
