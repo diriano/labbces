@@ -13,6 +13,18 @@ header:
 
 gallery_item:
 - album: bces
+  image: BCES_2026_02_QualifyingExam_IGR_01.jpg
+  caption: "Master's Qualifying Exam Isabella Gallego Rendón on February 2026. Committee members: Prof. Maria Carolina Quecine Verdi (ESALQ/USP), Dr. Mirta Natalia Coutouné (UNICAMP) and Dr. Marcelo Falsarella Carazzolle (UNICAMP)."
+  resize_options: 600x
+- album: bces
+  image: BCES_2026_02_QualifyingExam_IGR_02.jpg
+  caption: "Master's Qualifying Exam Isabella Gallego Rendón on February 2026. Committee members: Prof. Maria Carolina Quecine Verdi (ESALQ/USP), Dr. Mirta Natalia Coutouné (UNICAMP) and Dr. Marcelo Falsarella Carazzolle (UNICAMP)."
+  resize_options: 600x
+- album: bces
+  image: BCES_2026_02_QualifyingExam_IGR_03.jpg
+  caption: "Master's Qualifying Exam Isabella Gallego Rendón on February 2026. Committee members: Prof. Maria Carolina Quecine Verdi (ESALQ/USP), Dr. Mirta Natalia Coutouné (UNICAMP) and Dr. Marcelo Falsarella Carazzolle (UNICAMP)."
+  resize_options: 600x
+- album: bces
   image: BCES_2025_11_SangerPrize2025-001.jpg
   caption: "Undergrad student Beatriz Rodriguez Estevam winner of the Sanger Prize at the Sanger Institute in Fall 2025. Picture by Carmen Denman Hume, Communications Officer at the Wellcome Sanger Institute."
   resize_options: 600x
