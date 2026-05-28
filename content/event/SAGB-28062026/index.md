@@ -69,7 +69,7 @@ projects: [SAGB]
 
 ![Artificial intelligence in bioinformatics a survey](paper.png "Artificial intelligence in bioinformatics: a survey")
 
-O primeiro encontro de 2026 do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 28 de maio de 2026 as 14h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos o artigo ["Artificial intelligence in bioinformatics: a survey "](https://academic.oup.com/bib/article/26/6/bbaf576/8315885).  {{% staticref "uploads/SAGB-28052026.pdf" %}}slides{{% /staticref %}}
+O primeiro encontro de 2026 do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 28 de maio de 2026 as 14h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos o artigo ["Artificial intelligence in bioinformatics: a survey"](https://academic.oup.com/bib/article/26/6/bbaf576/8315885).  {{% staticref "uploads/SAGB-28052026.pdf" %}}slides{{% /staticref %}}
 
 Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente o artigo.
 
