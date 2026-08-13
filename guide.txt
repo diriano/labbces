@@ -14,27 +14,7 @@ To the databases available:
 
 sequenceserver --list_databases
 
-There is a systemd autostart script in /etc/systemd/system/sequenceserver.service 
-The content of the script is the following:
-
-```
-[Unit]
-Description=SequenceServer server daemon
-Documentation="file://sequenceserver --help" "http://sequenceserver.com/doc"
-After=network.target
-
-[Service]
-Type=simple
-User=sequenceserver
-ExecStart=/usr/local/ruby-3.2.2/bin//sequenceserver -c /home/sequenceserver/.sequenceserver.conf
-KillMode=process
-Restart=on-failure
-RestartSec=42s
-RestartPreventExitStatus=255
-
-[Install]
-WantedBy=multi-user.target
-```
+In August 2026, I changed the way how sequenceserver starts, from a systemd service to be managed by Apache using Passenger Phusion
 
 -- Adding new databases
 
