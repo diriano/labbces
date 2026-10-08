@@ -11,13 +11,13 @@ address:
   region:
   postcode:
   country: Brasil
-summary: Artificial intelligence in bioinformatics - a survey 
+summary: Bioinformática na selva da IA: um guia de sobrevivência 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2026-10-21T10:00:00-03:00
-date_end: 2026-10-21T12:00:00-03:00
+date_end: 2026-10-21T12:00:0-03:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
