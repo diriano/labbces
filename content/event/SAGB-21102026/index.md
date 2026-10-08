@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-10-06T15:52:54-03:00
-date_end: 2026-10-06T15:52:54-03:00
+date: 2026-10-21T10:00:00-03:00
+date_end: 2026-10-21T12:00:00-03:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -71,9 +71,9 @@ projects: [SAGB]
 
 [![Ten simple rules for optimal and careful use of generative AI in science](paper2.png "Ten simple rules for optimal and careful use of generative AI in science")](https://doi.org/10.1371/journal.pcbi.1013588)
 
-O segundo encontro de 2026 do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 21 de outubro de 2026 as 10h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos sobre o tema "Bioinformática na selva da IA: um guia de sobrevivência", e os seguintes artigos podem ser usados omo material para apoiar a discusão [Ten quick tips for harnessing the power of ChatGPT in computational biology](https://doi.org/10.1371/journal.pcbi.1011319) e [Ten simple rules for optimal and careful use of generative AI in science](https://doi.org/10.1371/journal.pcbi.1013588).
+O segundo encontro de 2026 do Seminário de Afinidades em Genômica e Bioinformática (SAGB), se realizará no dia 21 de outubro de 2026 as 10h, no [Anfiteatro Epaminondas S. B. Ferraz da central de aulas (prédio 11)](http://www.cena.usp.br/images/croqui_cena.pdf) do [Centro de Energia Nuclear na Agricultura (CENA)](https://goo.gl/maps/FrKPachXUcgeNt7j8) da Universidade de São Paulo (USP). Neste encontro discutiremos sobre o tema "Bioinformática na selva da IA: um guia de sobrevivência", e os seguintes artigos podem ser usados como material para apoiar a discussão [Ten quick tips for harnessing the power of ChatGPT in computational biology](https://doi.org/10.1371/journal.pcbi.1011319) e [Ten simple rules for optimal and careful use of generative AI in science](https://doi.org/10.1371/journal.pcbi.1013588).
 
-Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discucão, por isso recomendamos ler previamente os artigos.
+Todos os membros do campus (alunos, pesquisadores, funcionarios e docentes) estão convidados para participar ativamente da discussão, por isso recomendamos ler previamente os artigos.
 
 Se tiver interesse em participar por gentileza preencher o formulário:
 
