@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country: Brasil
-summary: Bioinformática na selva da IA: um guia de sobrevivência 
+summary: Bioinformática na selva da IA - um guia de sobrevivência 
 abstract:
 
 # Talk start and end times.
