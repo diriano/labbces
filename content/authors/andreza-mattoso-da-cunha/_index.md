@@ -26,6 +26,10 @@ education:
   - course: BSc in Biological Sciences
     institution: São Paulo State University, Rio Claro, Brazil
     year: 2022
+  - course: MSc in Science (Biology in Agriculture and Environment)
+    institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba/SP, Brazil
+    year: 2026
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +54,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Andreza will work analysing the expression of transposable elements in grasses.
+Andreza worked analysing the expression of transposable elements in grasses. She is now pursuing a PhD in Japan.

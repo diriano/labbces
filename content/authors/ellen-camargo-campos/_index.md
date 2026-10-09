@@ -50,7 +50,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Alumni
 ---
 
 Ellen started working in the group in late 2025, on the study of splicing events in grasses.

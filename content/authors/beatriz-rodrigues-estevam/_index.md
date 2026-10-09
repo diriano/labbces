@@ -58,7 +58,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Alumni
 ---
 
-Beatriz has been a part of the group since 2020. Firstly, she worked with the SARS-CoV-2 genome and carbohydrate-degradation enzymes. More recently, she has been working with sugarcane intron genomics. Currently, her scientific interests lie in comprehanding the impact, evolution and regulation of alternative splicing in various plant species.  
+Beatriz has been a part of the group since 2020. Firstly, she worked with the SARS-CoV-2 genome and carbohydrate-degradation enzymes. More recently, she has been working with sugarcane intron genomics. Currently, her scientific interests lie in comprehanding the impact, evolution and regulation of alternative splicing in various plant species. She is now at the Sanger Institute pursuing a PhD in genomics and bioinformatics.

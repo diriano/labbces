@@ -27,8 +27,9 @@ education:
   - course: BSc in Biomedicine
     institution: Universidade de Mogi das Cruzes,São Paulo,Brazil
     year: 2022
-  - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment, Current
+  - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment
     institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
+    year: 2026
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -52,7 +53,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Gabriely will work improving the assembly and annotation of the sugarcane genome variety SP80-3280 using third generation sequencing technologies.
+Gabriely worked improving the assembly and annotation of the sugarcane genome variety SP80-3280 using third generation sequencing technologies.

@@ -28,8 +28,8 @@ education:
     year: 2023
   - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment
     institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
-    year: Current
-
+    year: 2026
+4
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,7 +51,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Ma. Camila is a master student at PPG - Ciências at the Center for Nuclear Energy in Agriculture, University of São Paulo, studying transposable elements in sugarcane.

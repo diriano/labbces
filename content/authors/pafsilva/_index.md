@@ -28,6 +28,10 @@ education:
   - course: Master in Plant Biology 
     institution: Federal University of Pernambuco
     year: 2021
+  - course: PhD in Plant Biology 
+    institution: Federal University of Pernambuco
+    year: 2026
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,5 +59,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
