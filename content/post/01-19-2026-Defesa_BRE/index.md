@@ -29,4 +29,4 @@ projects: []
 ---
 # January 2026 - Defense of TCC  - Mrs Beatriz Rodrigues Estevam
 
-Mrs. Beatriz successfully defended her end of course work (TCC), entitled “[Construcão de panoramas de splicing em gramíneas](https://bdta.abcd.usp.br/item/003310936)”, on January 19th, 2026. The members of his assessment committee were Prof. Cristiane Calixto (IB/USP), and Dr. Hugo Rody (Braskem), MSc. Pedro Vilanova and MSc. Felipe Vaz Peres.
+Mrs. Beatriz successfully defended her end of course work (TCC), entitled “[Construcão de panoramas de splicing em gramíneas](https://bdta.abcd.usp.br/item/003310936)”, on January 19th, 2026. The members of her assessment committee were Prof. Cristiane Calixto (IB/USP), and Dr. Hugo Rody (Braskem), MSc. Pedro Vilanova and MSc. Felipe Vaz Peres.
