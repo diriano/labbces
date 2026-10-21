@@ -29,7 +29,6 @@ education:
   - course: M. Sc. Post-graduate program in Sciences (Nuclear Energy in Agriculture) - Biology in agriculture and environment
     institution: Center for Nuclear Energy in Agriculture, University of São Paulo, Piracicaba, Brazil
     year: 2026
-4
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
